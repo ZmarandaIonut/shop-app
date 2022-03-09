@@ -1,0 +1,145 @@
+[
+    {
+        "productname":"Video card ASUS GeForce GTX 1050 Ti Cerberus O4G 4GB GDDR5 128-bit",
+        "price":"300.99",
+        "imagesource":"https://5.grgs.ro/images/products/1/3207/1631526/normal/geforce-gtx-1050-ti-cerberus-o4g-4gb-ddr5-128-bit-55b8b1a547878e1323bd6b05b139c9b0.jpg",
+        "itemURL": "GPU-asus-geforce-gtx-1050-ti-4gb-gddr5",
+        "about" : "New nvidia pascal architecture delivers improved performance and power efficiency.\nClassic and modern games at 1080p @ 60 fps.\nFast, smooth, power efficient gaming experiences; Memory clock: 7008 mhz.\nPlug and play design requires no pcie power connectors for easy graphics upgrade.Resolution:Digital Max Resolution:7680x4320.\nPhoenix double ball bearing cooling fan provides superior airflow with 2x longer lifespan; Cuda core: 768.Auto extreme technology delivers premium quality and reliability with aerospace grade super alloy power ii components to run faster and last longer than reference.Gpu tweak II makes monitoring performance and streaming easier than ever, featuring game booster and xsplit gamecaster, all via an intuitive interface."
+    },
+    {
+        "productname":"Video card GIGABYTE GeForce GTX 1050 Ti D5 4GB GDDR5 128-bit",
+        "price":"300.00",
+        "imagesource":"https://2.grgs.ro/images/products/1/1109408/1424458/normal/geforce-gtx-1050-ti-d5-4gb-ddr5-128-bit-56f0604b367f1a5b14c4761f6de64f1a.jpg",
+        "itemURL" : "GPU-gigabyte-gtx-1050-d5-4gb-128",
+        "about" : "New NVIDIA pascal architecture delivers improved performance and power efficiency.\nClassic and modern games at 1080P at 60 FPS\nFast, smooth, power-efficient gaming experiences\nSupport for the latest DirectX 12 features\nDelivers all the latest GeForce gaming features. Card size-H=40 L=229 W=118 millimeter\nForm factor: ATX."
+    },
+    {
+        "productname":"Sapphire Radeon RX 6600 XT PULSE 8GB GDDR6 128-bit",
+        "price":"840.00",
+        "imagesource":"https://4.grgs.ro/images/products/1/5981/2247958/normal/radeon-rx-6600-xt-pulse-8gb-gddr6-128-bit-709c474c7bb0408b1a2ae9f851e3aeb4.jpg",
+        "itemURL" : "GPU-Sapphire-Radeon-RX-660XT-Pluse-8gb",
+        "about" : "Memory Size: 8192 MB\nMemory Interface: 128-bit DDR6\nExternal Power: 1 x 8 pin\nVideo Streaming up to 8K\nPCI-Express 4.0"
+    },
+    {
+        "productname":"MSI GeForce RTX 3070 GAMING Z TRIO LHR",
+        "price":"1439.99",
+        "imagesource":"https://3.grgs.ro/images/products/1/6331/2221802/normal/geforce-rtx-3070-gaming-z-trio-lhr-8gb-gddr6-256-bit-49f6320976af1a24504379500f7d1d33.jpg",
+        "itemURL" : "GPU-Geforce-RTX-3070-Gaming-Z-TRIO-LHR",
+        "about" : "Chipset: NVIDIA GeForce RTX 3070 LHR\nBoost Clock: 1845 MHz\nVideo Memory: 8GB GDDR6\nMemory Interface: 256-bit\nOutput: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1."
+    },
+    {
+        "productname":"GIGABYTE GeForce RTX 3080 TURBO LHR",
+        "price":"2149.90",
+        "imagesource":"https://5.grgs.ro/images/products/1/7201/2241670/normal/geforce-rtx-3080-turbo-10gb-gddr6x-320-bit-d028d9438f795ae5d18b2d168c699206.jpg",
+        "itemURL" : "GPU-GIGABYTE-GeForce-RTX-3080-TURBO-LHR",
+        "about" : "Graphics: GeForce RTX 3080\nCUDA Cores: 8704\nCore Clock: 1710 MHz\nMemory: 10GB GDDR6X 320bit 19000MHz\nMax resolution: 7680x4320@60Hz."
+    },
+    {
+        "productname":"Intel Comet Lake, Core i5 10400 2.9GHz box",
+        "price":"200.00",
+        "imagesource":"https://4.grgs.ro/images/products/1/3041/2038114/normal/comet-lake-core-i5-10400-29ghz-box-c1cefffcc66e9a3d33c171d6c730c2ba.png",
+        "itemURL": "CPU-Intel-comet-lake-core-i5-10400",
+        "about" : "6 Cores / 12 Threads\nSocket type LGA 1200\nUp to 4. 3 GHz\nCompatible with Intel 400 series chipset based motherboards\nIntel Optane Memory support\nCooler included."
+    },
+    {
+        "productname":"Intel Comet Lake, Core i3 10100F 3.6GHz box",
+        "price":"100.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/3041/2089894/normal/comet-lake-core-i3-10100-36ghz-box-9631d432b6d98f39ada9fa244e195133.jpg",
+        "itemURL" : "CPU-Intel-Comet-Lake-I3-10100F",
+        "about" : "Country Of Origin :China\nPackage Dimensions :7.3Cm L X10.7Cm W X11.8Cm H\nPackage Weight :9.9Ounces\nProduct Type : Computer Processor"
+    },
+    {
+        "productname": "Processor AMD Ryzen 3 1200AF 3.1GHz box",
+        "price":"180.00",
+        "imagesource":"https://1.grgs.ro/images/products/1/5725/2205986/normal/ryzen-3-1200-31ghz-box-60f0b092878a7b6bf514ec696d900886.jpg",
+        "itemURL" : "CPU-AMD-Ryzen-3-1200AF",
+        "about" : "3.1GHz Operating Frequency, AM4 Socket\nPinnacle Ridge series\nAMD Boxed Desktop CPU\nRyzen 3 1200 AF with 8MB cache\n4 core / 4 threads."
+    },
+    {
+        "productname": "Processor AMD Ryzen 5 5600G 3.9GHz box",
+        "price":"303.59",
+        "imagesource":"https://4.grgs.ro/images/products/1/9507/2240078/normal/ryzen-5-5600g-39ghz-box-1adb3982e7ef74e009a4724b35725a64.jpg",
+        "itemURL" : "CPU-AMD-Ryzen-5-5600G",
+        "about" : "Features best-in-class graphics performance in a desktop processor for smooth 1080p gaming, no graphics card required\n6 Cores and 12 processing threads, bundled with the AMD Wraith Stealth cooler\n4.4 GHz Max Boost, unlocked for overclocking, 19 MB cache, DDR4-3200 support\nFor the advanced Socket AM4 platform"
+    },
+    {
+        "productname": "Processor AMD Ryzen 7 3800X 3.9GHz box",
+        "price":"338.00",
+        "imagesource":"https://2.grgs.ro/images/products/1/1275/1893866/normal/ryzen-7-3800x-39ghz-box-7ecb4b74246bfd8b3bc658cc463f1d52.png",
+        "itemURL" : "CPU-AMD-Ryzen-7-3800X",
+        "about" : "The world's most advanced processor in the desktop PC gaming segment\nCan deliver ultra fast 100+ FPS performance in the world's most popular games\n8 Cores and 16 processing threads, bundled with the AMD Wraith Prism cooler with color controlled LED support\n4.5 GHz max Boost, unlocked for overclocking, 36 MB of game Cache, DDR 3200 support. OS Support-Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit. Note-Operating System (OS) support will vary by manufacturer"
+    },
+
+      {
+        "productname":"SSD Samsung 980 PRO 250GB PCI Express 4.0 x4 M.2 2280",
+        "price":"60.00",
+        "imagesource":"https://2.grgs.ro/images/products/1/6924/2118474/normal/980-pro-250gb-pci-express-40-x4-m2-2280-f7dfad053808ee6534de536887acdb5a.jpg",
+        "itemURL" : "SSD-samsung-980-pro-250gb",
+        "about" : "fearless performance: sequential read speeds up to 6,400 mb/s *performance may vary based on system hardware & configuration\nperformance that puts you in command: pcie gen 4.0 x4, nvme 1.3c interface\nexperience the best: m.2 (2280) form factor surpass the demands of tech enthusiasts and professionals\nget the ultimate sustainable performance: the 980 pro delivers up to 250 mb with a 5-year limited warranty\ndesigned for tech enthusiasts, hardcore gamers and professionals who need reliability\nMemory storage capacity: 250GB\nCompatibility 980 PRO is backward compatible with PCIe 3.0.\nSequential performances (up to): 3500MB/s for reads,2700MB/s (250GB) for writes. Random (up to): 560K (250GB) for reads, 620K (250/500GB) for writes"
+      },
+      {
+          "productname":"SSD Intenso Top 128GB SATA-III 2.5 inch",
+          "price":"23.00",
+          "imagesource":"https://3.grgs.ro/images/products/1/2/982657/normal/top-128gb-sata-iii-25-inch-cd51f7ad4e187aa6f18cb7946ad9b769.jpg",
+          "itemURL" : "SSD-intenso-128gb",
+          "about" : "Performance Boost - Enhance productivity and increase efficiency, faster start up and access to applications for a better computing experience.\nDurable & Reliable - Solid design with no internal moving parts ideal for Laptop SSD or Desktop SSD with higher reliability than HDD.\nEfficient - Improve typical PC/MAC workloads – simple installation.\nDevice Optimisation - Maximise battery life for laptops/notebooks (lower power consumption than HDD), zero Noise, no heat generation."
+      },
+
+     {
+        "productname":"SSD Kingston NV1 250GB PCI Express 3.0 x4 M.2 2280",
+        "price":"18.70",
+        "imagesource":"https://4.grgs.ro/images/products/1/2971/2280782/normal/nv1-500gb-pci-express-30-x4-m2-2280-eafbd805fac76e09eec85abb35c67ac0.jpg",
+        "itemURL" : "SSD-Kingston-NV1-250GB",
+        "about" : "NVMe PCIe SSD Performance\nIdeal for laptops & small form factor PCs\nAvailable in a range of capacities up to 2TB² to meet your data storage requirements.\nPart Number: SNVS/250G"
+    },
+    {
+        "productname": "SSD ADATA SU900 256GB SATA-III 2.5 inch",
+        "price":"53.00",
+        "imagesource":"https://2.grgs.ro/images/products/1/1052635/1437606/full/su900-256gb-sata-iii-25-inch-0d2d3fb7ba6292a09a8dbb03c7bf281a.jpg",
+        "itemURL" : "SSD-ADATA-SU900-256GB",
+        "about" : "Flash and an SMI controller, offering capacities up to 2TB, high speed, and great reliability. It features intelligent\nhigh speed, and great reliability. It features intelligent SLC Caching and DRAM Cache Buffer to boost read / write performance up to 560 / 525MB per second. With the support of LDPC ECC and multiple"
+    },
+    {
+        "productname": "SSD ADATA XPG Gammix S11 Pro 256GB PCI Express 3.0 x4 M.2",
+        "price":"50.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/1774300/1772916/normal/xpg-gammix-s11-pro-256gb-pci-express-x4-m2-2280-1fc372a6a971ddd4585ada6967ef430b.jpg",
+        "itemURL" : "SSD-ADATA-XPG-Gamingx-S11",
+        "about" : "Cool-headed in the face of battle: sports-car-inspired design makes the S11 Pro look and stay cool\nPCIe Gen3x4 interface: read/write up to 3500/3000MB/s\n3D NAND Flash – higher capacities for more games: higher efficiency, rugged reliability and a high TBW\nData integrity, security, and stability: error Correcting code technology to detect and fix a wider range of data errors\nM. 2 2280 form factor: supports the latest Intel and AMD platforms and offers easy cable-free installation"
+    },
+    {
+        "productname": "Seasonic Focus GX, 80+ Gold, 650W",
+        "price":"125.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/5758/1943026/normal/focus-gx-80-plus-gold-650w-3ca2ff2f45149ad90c8440ca2b3429fd.jpg",
+        "itemURL" : "SPU-Seasonic-Focus-GX-80-GOLD",
+        "about" : "High Efficiency, 80 PLUS Gold Certified with Fully Modular Cabling Design\nCompact Size (140 mm). Operating Temperature: 0 - 50 °C (derating from 100 % to 80 % from 40 °C to 50 °C)\n120 mm Fluid Dynamic Bearing (FDB) Fan with Seasonic Hybrid Silent Fan Control\nHighly Reliable Japanese 105 °C Aluminum Electrolytic Capacitors\nTight Voltage Regulation (12 V, 5 V and 3.3 V) [± 3%]"
+    },
+    {
+        "productname": "Seasonic S12III-650, 80+ Bronze, 650W",
+        "price":"53.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/6472/1976034/normal/s12iii-650-80-plus-bronze-650w-396aedc87be7de62fbd5ed939ccd3111.jpg",
+        "itemURL" : "SPU-Seasonic-S12III-650-80-Bronze",
+        "about" : "80 PLUS Bronze Certified High Efficiency with Fixed Cables\nAmple + 12 V Outputs\nActive Power Factor Correction (99 % PF Typical)\nLLC Resonant Converter Design\n120 mm Sleeve Bearing Fan and Smart & Silent Fan Control (S2FC)\nOperating Temperature: 40 °C"
+    },
+    {
+        "productname": "Corsair RM750 2019, 80+ Gold, 750W",
+        "price":"92.00",
+        "imagesource":"https://1.grgs.ro/images/products/1/1868718/1877566/normal/rm750-2019-80-plus-gold-750w-c90ec7c932a9c8c81c3d85ab0bb34ffe.jpg",
+        "itemURL" : "SPU-Corsair-RM750-80-GOLD",
+        "about" : "80 PLUS Gold Certified: High efficiency operation for lower power consumption, less noise and cooler temperatures\nTuned for Low Noise Operation: A 135 mm rifle bearing fan with a specially calculated fan curve ensures that fan noise is kept to a minimum, even at full load\n105 degree Celsius-Rated Capacitors: Industrial-grade capacitors deliver solid electrical performance and reliability\nMicrosoft Modern Standby Compatible: Extremely fast wake-from-sleep times and better low-load efficiency\nZero RPM Fan Mode: At low and medium loads the cooling fan switches off entirely for near-silent operation"
+    },
+    {
+        "productname": "Corsair TX550M, 80+ Gold, 550W",
+        "price":"52.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/367655/1452610/normal/tx550m-80-plus-bronze-550w-2a6a32abbaef7b459db958b0ddfd8fc3.jpg",
+        "itemURL" : "SPU-Corsair-TX500M-80-GOLD",
+        "about" : "50 Degree C Operating Temperature: Can output full power even at very high ambient temperatures\n80 Plus Gold: Runs cooler and uses less power than less efficient power supplies\nSemi-Modular: Allows user to only use the cables they need for a cleaner looking build with better airflow\nBacked by CORSAIR’s legendary technical support and customer service\nAll Japanese Capacitors: Unparalleled reliability, even at higher operating temperatures"
+    },
+    {
+        "productname": "EVGA SuperNOVA GT, 80+ Gold, 550W",
+        "price":"125.00",
+        "imagesource":"https://5.grgs.ro/images/products/1/8256/2267266/normal/supernova-gt-80-plus-gold-550w-3c208d20b27f22db613cf642a25cbf3e.jpg",
+        "itemURL" : "SPU-EVGA-SuperNOVA-GT-80-GOLD",
+        "about" : "80 PLUS Gold certified, with 90% (115VAC) / 92% (220VAC~240VAC) efficiency or higher under typical loads\n100% Japanese Capacitors ensure long-term reliability\nFully Modular to reduce clutter and improve airflow\nAuto ECO Mode to ensure silent operation under low to medium loads with no configuration necessary\nHeavy-duty protections, including OVP (Over Voltage Protection), UVP (Under Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and Dual OTP (Over Temperature Protection)"
+    }
+
+]

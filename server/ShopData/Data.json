@@ -1,0 +1,503 @@
+{
+    "SSD" : [
+        {
+          "productname":"SSD Samsung 980 PRO 250GB PCI Express 4.0 x4 M.2 2280",
+          "price":"60.00",
+          "imagesource": "https://2.grgs.ro/images/products/1/6924/2118474/normal/980-pro-250gb-pci-express-40-x4-m2-2280-f7dfad053808ee6534de536887acdb5a.jpg",
+          "imagesContainer": ["https://2.grgs.ro/images/products/1/6924/2118474/normal/980-pro-250gb-pci-express-40-x4-m2-2280-f7dfad053808ee6534de536887acdb5a.jpg","https://3.grgs.ro/images/products/1/6924/2118474/full/980-pro-250gb-pci-express-40-x4-m2-2280-e759113468676ecadffab47a9afb2237.jpg","https://5.grgs.ro/images/products/1/6924/2118474/full/980-pro-250gb-pci-express-40-x4-m2-2280-42150e539fdd8b296c26f9493609a5a4.jpg"],
+          "itemURL" : "SSD-samsung-980-pro-250gb",
+          "about" : "fearless performance: sequential read speeds up to 6,400 mb/s *performance may vary based on system hardware & configuration\nperformance that puts you in command: pcie gen 4.0 x4, nvme 1.3c interface\nexperience the best: m.2 (2280) form factor surpass the demands of tech enthusiasts and professionals\nget the ultimate sustainable performance: the 980 pro delivers up to 250 mb with a 5-year limited warranty\ndesigned for tech enthusiasts, hardcore gamers and professionals who need reliability\nMemory storage capacity: 250GB\nCompatibility 980 PRO is backward compatible with PCIe 3.0.\nSequential performances (up to): 3500MB/s for reads,2700MB/s (250GB) for writes. Random (up to): 560K (250GB) for reads, 620K (250/500GB) for writes"
+        },
+        {
+            "productname":"SSD Intenso Top 128GB SATA-III 2.5 inch",
+            "price":"23.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/2/982657/normal/top-128gb-sata-iii-25-inch-cd51f7ad4e187aa6f18cb7946ad9b769.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/2/982657/normal/top-128gb-sata-iii-25-inch-cd51f7ad4e187aa6f18cb7946ad9b769.jpg","https://4.grgs.ro/images/products/1/2/982657/full/top-128gb-sata-iii-25-inch-b6a6d5bd9eac76bd89e364bcccd60993.jpg"],
+            "itemURL" : "SSD-intenso-128gb",
+            "about" : "Performance Boost - Enhance productivity and increase efficiency, faster start up and access to applications for a better computing experience.\nDurable & Reliable - Solid design with no internal moving parts ideal for Laptop SSD or Desktop SSD with higher reliability than HDD.\nEfficient - Improve typical PC/MAC workloads – simple installation.\nDevice Optimisation - Maximise battery life for laptops/notebooks (lower power consumption than HDD), zero Noise, no heat generation."
+        },
+        {
+            "productname":"SSD Kingston NV1 250GB PCI Express 3.0 x4 M.2 2280",
+            "price":"18.70",
+            "imagesource":"https://4.grgs.ro/images/products/1/2971/2280782/normal/nv1-500gb-pci-express-30-x4-m2-2280-eafbd805fac76e09eec85abb35c67ac0.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/2971/2280782/normal/nv1-500gb-pci-express-30-x4-m2-2280-eafbd805fac76e09eec85abb35c67ac0.jpg","https://5.grgs.ro/images/products/1/2971/2280782/full/nv1-500gb-pci-express-30-x4-m2-2280-a23d6f7fd750c8ad925f6ed68c9e1a18.jpg"],
+            "itemURL" : "SSD-Kingston-NV1-250GB",
+            "about" : "NVMe PCIe SSD Performance\nIdeal for laptops & small form factor PCs\nAvailable in a range of capacities up to 2TB² to meet your data storage requirements.\nPart Number: SNVS/250G"
+        },
+        {
+            "productname": "SSD ADATA SU900 256GB SATA-III 2.5 inch",
+            "price":"53.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/1052635/1437606/full/su900-256gb-sata-iii-25-inch-0d2d3fb7ba6292a09a8dbb03c7bf281a.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/1052635/1437606/full/su900-256gb-sata-iii-25-inch-0d2d3fb7ba6292a09a8dbb03c7bf281a.jpg","https://2.grgs.ro/images/products/1/1052635/1437606/full/su900-256gb-sata-iii-25-inch-5cfbe9d1c29e8878d1d14aae60b75366.jpg"],
+            "itemURL" : "SSD-ADATA-SU900-256GB",
+            "about" : "Flash and an SMI controller, offering capacities up to 2TB, high speed, and great reliability. It features intelligent\nhigh speed, and great reliability. It features intelligent SLC Caching and DRAM Cache Buffer to boost read / write performance up to 560 / 525MB per second. With the support of LDPC ECC and multiple"
+        },
+        {
+            "productname": "SSD ADATA XPG Gammix S11 Pro 256GB PCI Express 3.0 x4 M.2",
+            "price":"50.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/1774300/1772916/normal/xpg-gammix-s11-pro-256gb-pci-express-x4-m2-2280-1fc372a6a971ddd4585ada6967ef430b.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/1774300/1772916/normal/xpg-gammix-s11-pro-256gb-pci-express-x4-m2-2280-1fc372a6a971ddd4585ada6967ef430b.jpg","https://2.grgs.ro/images/products/1/1774300/1771564/full/xpg-gammix-s11-pro-512gb-pci-express-x4-m2-2280-21862f3b45eedc0cd65cecc74d3fc981.jpg"],
+            "itemURL" : "SSD-ADATA-XPG-Gamingx-S11",
+            "about" : "Cool-headed in the face of battle: sports-car-inspired design makes the S11 Pro look and stay cool\nPCIe Gen3x4 interface: read/write up to 3500/3000MB/s\n3D NAND Flash – higher capacities for more games: higher efficiency, rugged reliability and a high TBW\nData integrity, security, and stability: error Correcting code technology to detect and fix a wider range of data errors\nM. 2 2280 form factor: supports the latest Intel and AMD platforms and offers easy cable-free installation"
+        }
+    ],
+    "GPU" : [
+        {
+        "productname":"Video card ASUS GeForce GTX 1050 Ti Cerberus O4G 4GB GDDR5 128-bit",
+        "price":"300.99",
+        "imagesource":"https://5.grgs.ro/images/products/1/3207/1631526/normal/geforce-gtx-1050-ti-cerberus-o4g-4gb-ddr5-128-bit-55b8b1a547878e1323bd6b05b139c9b0.jpg",
+        "imagesContainer":["https://5.grgs.ro/images/products/1/3207/1631526/normal/geforce-gtx-1050-ti-cerberus-o4g-4gb-ddr5-128-bit-55b8b1a547878e1323bd6b05b139c9b0.jpg","https://5.grgs.ro/images/products/1/3207/1631526/full/geforce-gtx-1050-ti-cerberus-o4g-4gb-ddr5-128-bit-21483033fb7295bcc0eb39d1ab392f5e.jpg","https://5.grgs.ro/images/products/1/3207/1631526/full/geforce-gtx-1050-ti-cerberus-o4g-4gb-ddr5-128-bit-8704068aa9caa48dc95f51b8a6d58d10.jpg"],
+        "itemURL": "GPU-asus-geforce-gtx-1050-ti-4gb-gddr5",
+        "about" : "Dual fan concept for twice as strong airflow\nSimple plug and play concept where no additional power supply is used\nAuto extreme technology according to industry standard with Super Alloy Power II for premium quality\nBox contents: Asus Cerberus GTX1050TI A4G, CD, Quick Start Guide"
+        },
+        {
+            "productname":"Video card GIGABYTE GeForce GTX 1050 Ti D5 4GB GDDR5 128-bit",
+            "price":"300.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/1109408/1424458/normal/geforce-gtx-1050-ti-d5-4gb-ddr5-128-bit-56f0604b367f1a5b14c4761f6de64f1a.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/1109408/1424458/normal/geforce-gtx-1050-ti-d5-4gb-ddr5-128-bit-56f0604b367f1a5b14c4761f6de64f1a.jpg","https://3.grgs.ro/images/products/1/1109408/1424458/full/geforce-gtx-1050-ti-d5-4gb-ddr5-128-bit-337d93dc10fc96a0673aaded7a019260.jpg","https://4.grgs.ro/images/products/1/1109408/1424458/full/geforce-gtx-1050-ti-d5-4gb-ddr5-128-bit-315eb8440fdd1aa8a6a861663b8bc3a0.jpg"],
+            "itemURL" : "GPU-gigabyte-gtx-1050-d5-4gb-128",
+            "about" : "New NVIDIA pascal architecture delivers improved performance and power efficiency.\nClassic and modern games at 1080P at 60 FPS\nFast, smooth, power-efficient gaming experiences\nSupport for the latest DirectX 12 features\nDelivers all the latest GeForce gaming features. Card size-H=40 L=229 W=118 millimeter\nForm factor: ATX."
+        },
+        {
+            "productname":"Sapphire Radeon RX 6600 XT PULSE 8GB GDDR6 128-bit",
+            "price":"840.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/5981/2247958/normal/radeon-rx-6600-xt-pulse-8gb-gddr6-128-bit-709c474c7bb0408b1a2ae9f851e3aeb4.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/5981/2247958/normal/radeon-rx-6600-xt-pulse-8gb-gddr6-128-bit-709c474c7bb0408b1a2ae9f851e3aeb4.jpg","https://2.grgs.ro/images/products/1/5981/2247958/full/radeon-rx-6600-xt-pulse-8gb-gddr6-128-bit-88cea2321e43a4cee2e96e2ba2eac0f5.jpg","https://3.grgs.ro/images/products/1/5981/2247958/full/radeon-rx-6600-xt-pulse-8gb-gddr6-128-bit-969fd3182e702dd74a8886b0d5a8ecce.jpg"],
+            "itemURL" : "GPU-Sapphire-Radeon-RX-660XT-Pluse-8gb",
+            "about" : "Memory Size: 8192 MB\nMemory Interface: 128-bit DDR6\nExternal Power: 1 x 8 pin\nVideo Streaming up to 8K\nPCI-Express 4.0"
+        },
+        {
+            "productname":"MSI GeForce RTX 3070 GAMING Z TRIO LHR",
+            "price":"1439.99",
+            "imagesource":"https://3.grgs.ro/images/products/1/6331/2221802/normal/geforce-rtx-3070-gaming-z-trio-lhr-8gb-gddr6-256-bit-49f6320976af1a24504379500f7d1d33.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/6331/2221802/normal/geforce-rtx-3070-gaming-z-trio-lhr-8gb-gddr6-256-bit-49f6320976af1a24504379500f7d1d33.jpg","https://4.grgs.ro/images/products/1/6769/2141574/full/geforce-rtx-3070-gaming-x-trio-8gb-gddr6-256-bit-1aded7a8e4e2a4f14241b4272af4aae5.jpg","https://5.grgs.ro/images/products/1/6769/2141574/full/geforce-rtx-3070-gaming-trio-8gb-gddr6-256-bit-7b328592e8bc0210e38e459b9d3e0720.jpg"],
+            "itemURL" : "GPU-Geforce-RTX-3070-Gaming-Z-TRIO-LHR",
+            "about" : "Chipset: NVIDIA GeForce RTX 3070 LHR\nBoost Clock: 1845 MHz\nVideo Memory: 8GB GDDR6\nMemory Interface: 256-bit\nOutput: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1."
+        },
+        {
+            "productname":"GIGABYTE GeForce RTX 3080 TURBO LHR",
+            "price":"2149.90",
+            "imagesource":"https://5.grgs.ro/images/products/1/7201/2241670/normal/geforce-rtx-3080-turbo-10gb-gddr6x-320-bit-d028d9438f795ae5d18b2d168c699206.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/7201/2241670/normal/geforce-rtx-3080-turbo-10gb-gddr6x-320-bit-d028d9438f795ae5d18b2d168c699206.jpg","https://4.grgs.ro/images/products/1/7201/2157014/full/geforce-rtx-3080-turbo-10gb-gddr6x-320-bit-66902cb8a9ab5f4cf822fc4b803b3264.jpg","https://1.grgs.ro/images/products/1/7201/2157014/full/geforce-rtx-3080-turbo-10gb-gddr6x-320-bit-7f43e1e2a49ba7b90a82ec3f8c93fa39.jpg"],
+            "itemURL" : "GPU-GIGABYTE-GeForce-RTX-3080-TURBO-LHR",
+            "about" : "Graphics: GeForce RTX 3080\nCUDA Cores: 8704\nCore Clock: 1710 MHz\nMemory: 10GB GDDR6X 320bit 19000MHz\nMax resolution: 7680x4320@60Hz."
+        }
+    ],
+    "CPU" : [
+        {
+         "productname":"Intel Comet Lake, Core i5 10400 2.9GHz box",
+         "price":"200.00",
+         "imagesource":"https://4.grgs.ro/images/products/1/3041/2038114/normal/comet-lake-core-i5-10400-29ghz-box-c1cefffcc66e9a3d33c171d6c730c2ba.png",
+         "imagesContainer":["https://4.grgs.ro/images/products/1/3041/2038114/normal/comet-lake-core-i5-10400-29ghz-box-c1cefffcc66e9a3d33c171d6c730c2ba.png","https://2.grgs.ro/images/products/1/3041/2038114/full/comet-lake-core-i5-10400-29ghz-box-bc461d133aacd1dbc59fdfd9c3334db5.jpg","https://1.grgs.ro/images/products/1/3041/2038114/full/comet-lake-core-i5-10400-29ghz-box-fc478a4680f4971b7b698d5b7c83c5db.jpg"],
+         "itemURL": "CPU-Intel-comet-lake-core-i5-10400",
+         "about": "Base stroke: 2.9 GHz; TurboBoost: 4.0 GHz\nSocket LGA1200\nIntel 400 Series Chipset\n6 Cores & 12 Threads. Processor Base Frequency 2.90 GHz and Max Turbo Frequency 4.30 GHz\nMaximum Memory Bandwidth : 41.6 GB/s"
+        },
+        {
+            "productname":"Intel Comet Lake, Core i3 10100F 3.6GHz box",
+            "price":"100.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/3041/2089894/normal/comet-lake-core-i3-10100-36ghz-box-9631d432b6d98f39ada9fa244e195133.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/3041/2089894/normal/comet-lake-core-i3-10100-36ghz-box-9631d432b6d98f39ada9fa244e195133.jpg","https://4.grgs.ro/images/products/1/3041/2089894/full/comet-lake-core-i3-10100-36ghz-box-18f7bb075ae51ddfe2c342749c84ea7b.jpg","https://1.grgs.ro/images/products/1/3041/2089894/full/comet-lake-core-i3-10100-36ghz-box-cb3618950eeb883d63681fb14f44f64e.jpg"],
+            "itemURL" : "CPU-Intel-Comet-Lake-I3-10100F",
+            "about" : "Country Of Origin :China\nPackage Dimensions :7.3Cm L X10.7Cm W X11.8Cm H\nPackage Weight :9.9Ounces\nProduct Type : Computer Processor"
+        },
+        {
+            "productname": "Processor AMD Ryzen 3 1200AF 3.1GHz box",
+            "price":"180.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/5725/2205986/normal/ryzen-3-1200-31ghz-box-60f0b092878a7b6bf514ec696d900886.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/5725/2205986/normal/ryzen-3-1200-31ghz-box-60f0b092878a7b6bf514ec696d900886.jpg","https://4.grgs.ro/images/products/1/5725/2205986/full/ryzen-3-1200-31ghz-box-56e34df5c2805ec5357233b7c02e8404.jpg","https://1.grgs.ro/images/products/1/5725/2205986/full/ryzen-3-1200-31ghz-box-141f8df4cc65e545c8b5a29729133f6b.jpg"],
+            "itemURL" : "CPU-AMD-Ryzen-3-1200AF",
+            "about" : "3.1GHz Operating Frequency, AM4 Socket\nPinnacle Ridge series\nAMD Boxed Desktop CPU\nRyzen 3 1200 AF with 8MB cache\n4 core / 4 threads."
+        },
+        {
+            "productname": "Processor AMD Ryzen 5 5600G 3.9GHz box",
+            "price":"303.59",
+            "imagesource":"https://4.grgs.ro/images/products/1/9507/2240078/normal/ryzen-5-5600g-39ghz-box-1adb3982e7ef74e009a4724b35725a64.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/9507/2240078/normal/ryzen-5-5600g-39ghz-box-1adb3982e7ef74e009a4724b35725a64.jpg","https://3.grgs.ro/images/products/1/9507/2240078/full/ryzen-5-5600g-39ghz-box-2283feb42dd8dc68c89600d8354b20a1.jpg"],
+            "itemURL" : "CPU-AMD-Ryzen-5-5600G",
+            "about" : "Features best-in-class graphics performance in a desktop processor for smooth 1080p gaming, no graphics card required\n6 Cores and 12 processing threads, bundled with the AMD Wraith Stealth cooler\n4.4 GHz Max Boost, unlocked for overclocking, 19 MB cache, DDR4-3200 support\nFor the advanced Socket AM4 platform"
+        },
+        {
+            "productname": "Processor AMD Ryzen 7 3800X 3.9GHz box",
+            "price":"338.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/1275/1893866/normal/ryzen-7-3800x-39ghz-box-7ecb4b74246bfd8b3bc658cc463f1d52.png",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/1275/1893866/normal/ryzen-7-3800x-39ghz-box-7ecb4b74246bfd8b3bc658cc463f1d52.png","https://3.grgs.ro/images/products/1/1275/1893866/full/ryzen-7-3700x-36ghz-box-3016fbeebd4c57c241759b83526c72e2.png"],
+            "itemURL" : "CPU-AMD-Ryzen-7-3800X",
+            "about" : "The world's most advanced processor in the desktop PC gaming segment\nCan deliver ultra fast 100+ FPS performance in the world's most popular games\n8 Cores and 16 processing threads, bundled with the AMD Wraith Prism cooler with color controlled LED support\n4.5 GHz max Boost, unlocked for overclocking, 36 MB of game Cache, DDR 3200 support. OS Support-Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit. Note-Operating System (OS) support will vary by manufacturer"
+        }
+    ],
+    "SMARTPHONE": [
+        {
+            "productname":"Smartphone Nokia X10, 5G Edition, 128GB, 4GB RAM, Dual SIM, 5G",
+            "price":"350.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/7169/2230506/normal/x10-octa-core-128gb-4gb-ram-dual-sim-5g-5-camere-forrest-3-ani-garantie-b118a7ba630592417db3e90daf4687ae.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/7169/2230506/normal/x10-octa-core-128gb-4gb-ram-dual-sim-5g-5-camere-forrest-3-ani-garantie-b118a7ba630592417db3e90daf4687ae.jpg","https://3.grgs.ro/images/products/1/7169/2230506/full/x10-octa-core-128gb-4gb-ram-dual-sim-5g-5-camere-forrest-3-ani-garantie-f98566c6665d6b940532f2ec69a06bed.jpg","https://3.grgs.ro/images/products/1/7169/2230506/full/x10-octa-core-128gb-4gb-ram-dual-sim-5g-5-camere-forrest-3-ani-garantie-de3c39d74309b2be3a278abc4720e268.jpg"],
+            "itemURL" : "SMARTPHONE-Nokia-X10-5G-Edition-128GB",
+            "about" : "Work on the go with a Full HD+ screen\nBlazing connections with 5G\n48MP camera with ZEISS optics\nUp to 2-day battery life\n3 years of Android software updates\nEverything you need to power your business"
+        },
+        {
+            "productname":"Smartphone Motorola Moto E7, Octa Core, 32GB, 2GB RAM, Dual SIM, 4G",
+            "price":"150.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/4167/2179058/normal/moto-e7-octa-core-32gb-2gb-ram-dual-sim-4g-tri-camera-satin-coral-5766277b9d17685a59d4600a666851c7.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/4167/2179058/normal/moto-e7-octa-core-32gb-2gb-ram-dual-sim-4g-tri-camera-satin-coral-5766277b9d17685a59d4600a666851c7.jpg","https://4.grgs.ro/images/products/1/4167/2179050/full/moto-e7-octa-core-32gb-2gb-ram-dual-sim-4g-tri-camera-mineral-grey-556bbaacdaf9ca7dcb763e44daeb6e94.jpg","https://5.grgs.ro/images/products/1/4167/2179050/full/moto-e7-octa-core-32gb-2gb-ram-dual-sim-4g-tri-camera-mineral-grey-493069e53c35b7a08e20d78b59c93147.jpg"],
+            "itemURL" : "SMARTPHONE-Motorola-Moto-E7-OctaCore-32GB",
+            "about" : "48 mp camera system. capture sharper, brighter photos even at night and explore the smallest of details by getting incredibly close-up.\n6.5 max vision hd+ display. get carried away playing games, watching movies, and chatting with friends on an ultra-wide screen.\n36-hour battery. keep the fun going all day and into the night with a 4000 mah battery.\nocta-core performance. feel your phone respond instantly to every touch, tap, and swipe.\nfingerprint reader. securely unlock your phone with just the touch of your finger.\nDisplay size: 6.5 inches\nIncluded components: Charger"
+        },
+        {
+            "productname":"Smartphone Realme 8, Super AMOLED, Gorilla Glass, 64GB, 4GB RAM, Dual SIM, 4G",
+            "price":"250.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/9663/2220662/full/8-super-amoled-gorilla-glass-64gb-4gb-ram-dual-sim-4g-5-camere-baterie-5000-mah-3-card-slot-30w-dart-charge-punk-black-855f4f9443186099f595a85d6f3c43e8.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/9663/2220662/full/8-super-amoled-gorilla-glass-64gb-4gb-ram-dual-sim-4g-5-camere-baterie-5000-mah-3-card-slot-30w-dart-charge-punk-black-855f4f9443186099f595a85d6f3c43e8.jpg","https://lcdn.altex.ro/resize/media/catalog/product/T/e/2bd48d28d1c32adea0e55139a4e6434a/Telefon_REALME_8i_128GB_4GB_RAM_Dual_Sim_Space_Purple_7_.jpg","https://lcdn.altex.ro/resize/media/catalog/product/T/e/2bd48d28d1c32adea0e55139a4e6434a/Telefon_REALME_8i_128GB_4GB_RAM_Dual_Sim_Space_Purple_2_.jpg"],
+            "itemURL" : "SMARTPHONE-Realme-8-Super-AMOLED-Gorla-Class-64GB",
+            "about": "5G. Go 700% Faster to a New World: The 5G era has arrived. With 700% faster speeds than 4G networks, 5G will turn your world upside down. realme 8 5G supports the latest 5G Dual-SIM Dual-Standby technology and is compatible with SA/NSA standards and mainstream bands worldwide\nSmart 5G. Smart Power Saving: As 5G consumes more power than the traditional 4G, it may shorten the phone's battery life. Introducing the Smart 5G technology on realme 8 5G - the phone intelligently switches between 4G and 5G depending on the usage scenario to save battery!\n5000mAh Massive Battery & 18W Quick Charge: By adopting the 5000mAh battery and 18W quick charge, the realme 8 5G gives you a super long entertainment time, helping you freely enjoy 5G intelligent life\n48MP Camera, see every detail. 16MP AI Beauty Selfie Always Stunning\nDynamic Light Design: To realize the racing design concept, we used a brilliant high-gloss indium plating process and lenticular pattern process to achieve a premium mirror effect to deliver a sense of light\n8.5mm Super Slim: 5G smartphones have 200% more antennas than 4G phones. We still created a slim experience for you - just 8.5mm thin and 185g light"
+        },
+        {
+            "productname":"Samsung Galaxy S20 FE, Snapdragon Edition, Octa Core, 128GB, 6GB RAM, Dual SIM",
+            "price":"600.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/7008/2090094/normal/galaxy-s20-fe-snapdragon-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-cloud-navy-ecd9c1b9dd432df8747c3b9c59854d4b.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/7008/2090094/normal/galaxy-s20-fe-snapdragon-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-cloud-navy-ecd9c1b9dd432df8747c3b9c59854d4b.jpg","https://2.grgs.ro/images/products/1/7008/2090094/full/galaxy-s20-fe-snapdragon-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-cloud-navy-b9344b266a479fb84f7167fc3d91d931.jpg","https://3.grgs.ro/images/products/1/7008/2090094/full/galaxy-s20-fe-snapdragon-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-cloud-navy-dbb43f68887cbf1cb665f2e815be8c8a.jpg"],
+            "itemURL" : "SMARTPHONE-Samsung-Galaxy-S20-FR-120GB",
+            "about" : "The Galaxy S20 FE is as bold on the inside as it is on the outside. With a 6.5 FHD+ Infinity-O Display, you can truly lose yourself in your latest binge-watch.\n12MP Ultra-wide lens, incredible zoom features like the 30x Space Zoom and the 3x Optical Zoom, along with our clear as day Night Mode.\nThe Galaxy S20 FE’s long-lasting, intelligent battery is built for those days that never seem to end. Plus, Super Fast Charging means you can power back up quickly.\nGet peace of mind with our defence-grade security - Samsung Knox, built into our Galaxy devices as standard. Working in the background to keep everything you love secure\nSmartphone preloaded with the Android V10 operating system"
+        },
+        {
+            "productname":"Smartphone OnePlus Nord CE 5G, Octa Core, 128GB, 8GB RAM, Dual SIM, 5G, 4-Camere, Charcoal Ink",
+            "price":"525.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/9033/2292374/normal/nord-ce-5g-ocata-core-128gb-8gb-ram-dual-sim-5g-4-camere-charcoal-ink-3ab2bc06294d93f09b0ebcd9f99a6b70.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/9033/2292374/normal/nord-ce-5g-ocata-core-128gb-8gb-ram-dual-sim-5g-4-camere-charcoal-ink-3ab2bc06294d93f09b0ebcd9f99a6b70.jpg","https://5.grgs.ro/images/products/1/9033/2292374/full/nord-ce-5g-ocata-core-128gb-8gb-ram-dual-sim-5g-4-camere-charcoal-ink-5ade0d5beb9f67891dbd199e049dd6dc.jpg","https://1.grgs.ro/images/products/1/9033/2292374/full/nord-ce-5g-ocata-core-128gb-8gb-ram-dual-sim-5g-4-camere-charcoal-ink-2ae24ada3207f4e4e3b3fd6ab75beb9e.jpg"],
+            "itemURL" : "SMARTPHONE-OnePlus-Nord-CE-5G",
+            "about" : "Shoot for Perfection with Nord CE's Triple Camera - 64MP Primary Lens with AI Scene detection and Nightscape Mode, 119° Ultra Wide Angle and 2MP Mono Lens.\nQualcomm Snapdragon 750G 5G Mobile platform - Performance driven AI powering incredible graphics and 5G Cloud Gaming.\nWarp Charge 30T Plus, 4500mAh Battery - Improved power transfer charges Nord CE's battery from 0 to 70% in just 30 minutes.\n90Hz AMOLED Display - Strikingly smooth, our 90 Hz refresh rate delivers 50% more visual information every second for a captivating experience.\nOxygenOS 11 - Pre installed with Google Communication Apps including Messages, Phone and Duo.\nAlexa Built-in phones let you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly."
+        },
+        {
+            "productname":"Smartphone Xiaomi 11 Lite NE, 5G Edition, AMOLED, 128GB, 8GB RAM, Dual SIM, 5G, 4-Camere, Peach Pink",
+            "price":"440.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/5747/2288259/normal/11-lite-ne-5g-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-peach-pink-d515d56cffc5dc2faf9ab26c1f96d7e3.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/5747/2288259/normal/11-lite-ne-5g-edition-octa-core-128gb-6gb-ram-dual-sim-5g-4-camere-peach-pink-d515d56cffc5dc2faf9ab26c1f96d7e3.jpg"],
+            "itemURL" : "SMARTPHONE-Xiaomi-11-Lite-NE-5G-Edition",
+            "about" : "Qualcomm Snapdragon 778G and 33W fast charging. Be captivated by the blazing-fast performance made possible by the Qualcomm Snapdragon 778G 5G. Mobile Platform packed into Xiaomi 11 Lite 5G NE. This powerful 7-series chip comes with the 6th generation Qualcomm AI Engine, which delivers up to 12TOPS AI performance and supports Dual SIM Dual 5G.\nXiaomi 11 Lite 5G NE uses a 6.55 flat AMOLED display, and provides Dolby Vision support for a next-level visual experience. Featuring a full DCI-P3 wide color gamut, and a 10-bit TrueColor color depth, Xiaomi 11 Lite 5G NE provides an astonishing 1.07 billion onscreen colors for a high degree of color accuracy. To top things off, the screen also features a high refresh rate of 90Hz and a touch sampling rate of 240Hz, which keeps you entertained with significantly reduced lag and stuttering.\nThe ultra slim 6.81mm and ultra-lightweight 158g body of Xiaomi 11 Lite 5G NE delivers a clean and refreshing look that's just as eye-catching as it is comfortable to grip."
+        },
+        {
+            "productname":"Smartphone Google Pixel 4a, OLED, HDR, 128GB, 6GB RAM, Single SIM, 4G, Just Black",
+            "price":"559.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/7374/2166990/normal/pixel-4a-octa-core-128gb-6gb-ram-single-sim-4g-just-black-5d57c7995eb4a388e7abf8e71b8906fb.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/7374/2166990/normal/pixel-4a-octa-core-128gb-6gb-ram-single-sim-4g-just-black-5d57c7995eb4a388e7abf8e71b8906fb.jpg"],
+            "itemURL" : "SMARTPHONE-Google-Pixel-4A-OLED",
+            "about" : "Brilliant photos in any light. The Pixel 4a camera has the same features that Pixel is known for, like Live HDR+, dual exposure controls, Night Sight and Super Res Zoom.\nGoes from breakfast to bed. Pixel’s battery lasts up to 24 hours[1]. It adapts to the way you use your favourite apps and reduces power to the ones you rarely use. So you can swipe and stream to your heart’s content.\nA little help with your daily tasks. Let your Pixel help out with the small things, so you can do more of what you love. It has the new Google Assistant[2] to help you to control your phone, send texts and even search within apps[3]. It also has the exclusive Recorder app, which automatically transcribes speech and lets you search across your audio recordings[4].\nRest assured. Get peace of mind knowing that your phone is working to keep you and your things safe. Pixel 4a is protected by the Titan M security chip and receives guaranteed updates for at least three years[5]. It also has Google’s Personal Safety app. It helps you to reach the emergency services and can even detect if you’ve been in an accident [6]."
+        },
+        {
+            "productname":"Smartphone OnePlus 8, AMOLED, Snapdragon 865, 256GB, 12GB RAM, Dual SIM, 5G, 4-Camera, Glacial Green, Oxygen OS",
+            "price":"570.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/2045418/2047194/normal/8-ecran-90-hz-fluid-amoled-snapdragon-865-256gb-12gb-ram-dual-sim-5g-4-camera-glacial-green-oxygen-os-36e57e766d14de356852ba621b4825a1.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/2045418/2047194/normal/8-ecran-90-hz-fluid-amoled-snapdragon-865-256gb-12gb-ram-dual-sim-5g-4-camera-glacial-green-oxygen-os-36e57e766d14de356852ba621b4825a1.jpg","https://1.grgs.ro/images/products/1/9033/2292422/full/8-pro-ecran-120-hz-fluid-amoled-snapdragon-865-256gb-12gb-ram-dual-sim-5g-5-camera-glacial-green-323b849b78444c8bab7d994c259e6784.jpg","https://5.grgs.ro/images/products/1/9033/2292422/full/8-pro-ecran-120-hz-fluid-amoled-snapdragon-865-256gb-12gb-ram-dual-sim-5g-5-camera-glacial-green-c5cb7a645f24e5ecc6feb36a09ae1312.jpg"],
+            "itemURL" : "SMARTPHONE-OnePlus-8-AMOLED-Snapdragon-865",
+            "about" : "Autofocus : Multi Autofocus (PDAF+CAF).\nSmartphone OnePlus\nThe Fastest charging there is with 65W Warp Charge so you're ready for a full day in just 15 minutes\n4500 mAh Battery\nUltra Smooth 6.55 120Hz DisplayOnePlus 8T runs seamlessly with a 120Hz Fluid Display that makes Gaming, Swiping and Scrolling smooth like never before. Experience vibrant colours and stunning detail with a display optimised for HDR10+ content\nShoot like a pro with the 8T's Quad Camera system and 16MP Front Camera 48MP Primary rear sensor with optical image stabilisation (OIS) + 16MP Ultra wide angle, 5MP Macro, and 2MP Monochrome Lens."
+        }
+    ],
+    "MONITOR": [
+        {
+            "productname":"Monitor LED AOC Gaming 27G2U5/BK 27 inch 1 ms Black FreeSync 75 Hz",
+            "price":"190.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/370411/1986138/normal/gaming-27g2u5-bk-27-inch-1-ms-negru-freesync-75-hz-91b56b476eb3152a2525fbc31066eead.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/370411/1986138/normal/gaming-27g2u5-bk-27-inch-1-ms-negru-freesync-75-hz-91b56b476eb3152a2525fbc31066eead.jpg","https://4.grgs.ro/images/products/1/370411/1986138/full/gaming-27g2u5-bk-27-inch-1-ms-negru-freesync-75-hz-f368f7124cd19fb423d6e1a6b4ef475a.jpg","https://5.grgs.ro/images/products/1/370411/1986138/full/gaming-27g2u5-bk-27-inch-1-ms-negru-freesync-75-hz-38c1189f67d190f86c32d8018659b87b.jpg"],
+            "itemURL" : "MONITOR-LED-AOC-Gaming-27G2U5-BK-27",
+            "about" : "27 Inches VA LED Monitor 1920 x 1080\nDisplay size: 27.0 inches\nFreeSync\nHeight Adjust\n75Hz completely unleashes top end GPU's bringing unprecedented fluidity to the picture on your screen. Digital signal frequency: 30 -255kHz (H) 48 -240 Hz (V)\nCurved design wraps around you putting you at the center of the action and provides an immersive gaming experience.\nA pixel response time of 0.5 ms means speed without the smear for an enhanced experience. Fast-moving action and dramatic transitions will be rendered smoothly without the effects of ghosting."
+        },
+        {
+            "productname":"Monitor LED Lenovo Gaming Legion Y25-25 24.5 inch 1ms FreeSync & G-Sync Compatible 240Hz",
+            "price":"240.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/4917/2066602/full/gaming-legion-y25-25-245-inch-1ms-freesync-240hz-c2e8e18b6392852cdd77a3c376f020e8.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/4917/2066602/full/gaming-legion-y25-25-245-inch-1ms-freesync-240hz-c2e8e18b6392852cdd77a3c376f020e8.jpg","https://2.grgs.ro/images/products/1/4917/2066602/full/gaming-legion-y25-25-245-inch-1ms-freesync-240hz-c9303060064f1c62337cfbd695532030.jpg","https://5.grgs.ro/images/products/1/4917/2066602/full/gaming-legion-y25-25-245-inch-1ms-freesync-240hz-0ba5f45e260234d15c86a014fa7cb055.jpg"],
+            "itemURL" : "MONITOR-LED-Lenovo-Gaming-Legion-Y25-25",
+            "about" : "Made for high-paced, competitive eSports gaming, enjoy exceptionally smooth, stutter-free play with AMD FreeSync Premium, a 240Hz refresh rate, and 1ms response time\nThis 24.5 IPS FHD gaming monitor offers 3-side NearEdgeless bezels, 1920x1080 resolution, 178° viewing angle, and 99% sRGB\nHDMI 2.0 and DP 1.2 video connectivity; four built-in USB 3.2 ports also let you access data from external sources\nPlay in comfort – the stand for the Legion Y25-25 computer monitor offers multiple positions to tilt, pivot, swivel, or lift your screen, plus it's VESA mountable. There's even a hook for your headphones\nThis gaming monitor is also TÜV Rheinland Eye Comfort-certified, meaning your eyes are protected from harmful blue light, flickering screens, glare, and external reflections"
+        },
+        {
+            "productname":"Monitor LED Alienware Gaming AW2720HFA 27 inch 1 ms Black FreeSync 240Hz",
+            "price":"320.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/1977958/1986086/normal/gaming-aw2720hfa-27-inch-1-ms-black-freesync-240hz-5330e0737d0da9b120ead8efad4099c8.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/1977958/1986086/normal/gaming-aw2720hfa-27-inch-1-ms-black-freesync-240hz-5330e0737d0da9b120ead8efad4099c8.jpg","https://5.grgs.ro/images/products/1/1977958/1986086/full/alienware-aw2720hf-27-inch-1-ms-black-freesync-240hz-fb70d931888d1f23b4c42e4711a41cfb.jpg","https://2.grgs.ro/images/products/1/1977958/1986086/full/alienware-aw2720hf-27-inch-1-ms-black-freesync-240hz-a44c30a3e8a83b451be7888749996a0e.jpg"],
+            "itemURL" : "MONITOR-LED-Alienware-Gaming",
+            "about" : "Rapid-fire: Experience the best available in IPS Technology with native refresh rates of up to 240Hz, which are 10x faster than movies and up to 2x faster than common 120Hz gaming monitors.\n1ms response. No gimmicks: A true 1ms response time with Overdrive blasts away blurs and provides fast, responsive gameplay.\nAMD FreeSync technology synchronizes the graphics card and the monitor, so you get epic, full-frame images that don’t slow down your gameplay. The Alienware 27 Gaming Monitor is also certified NVIDIA G-SYNC Compatible.\nTrue colors: With up to 99% sRGB color coverage, you have a wide array of colors in your arsenal.\nThe 27 screen allows you to effortlessly see the whole battlefield and all its details, while the native FHD resolution ensures games running in 1080p stay sharp and fast."
+        },
+        {
+            "productname":"Monitor LED Alienware Gaming AW2721D 27 inch 1 ms Negru HDR G-Sync Ultimate 240 Hz",
+            "price":"630.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/9395/2136942/full/gaming-aw2721d-27-inch-1-ms-negru-g-sync-ultimate-240-hz-f19e3be2c60468f41e578dbd1eb9120a.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/9395/2136942/full/gaming-aw2721d-27-inch-1-ms-negru-g-sync-ultimate-240-hz-f19e3be2c60468f41e578dbd1eb9120a.jpg","https://2.grgs.ro/images/products/1/9395/2136942/full/gaming-aw2721d-27-inch-1-ms-negru-g-sync-ultimate-240-hz-9a397e0f92632dd3d289beb96b9678db.jpg","https://4.grgs.ro/images/products/1/9395/2136942/full/gaming-aw2721d-27-inch-1-ms-negru-g-sync-ultimate-240-hz-977747456bf636b65717279538a5020f.jpg"],
+            "itemURL" : "MONITOR-LED-ALienware-Gaming-AW2721D",
+            "about" : "Triumph at Top Speed: Eliminate motion blur and smooth gameplay with a 240Hz high refresh rate and 1ms GTG response time.\nRevel in Vivid Colour: With 98% DCI-P3 colour coverage, every gaming experience features vibrant colours and incredible depth.\nImmerse Yourself in Victory: Dominate with lifelike images, improved contrast ratio, greater colour depth and remarkable clarity all thanks to VESA DisplayHDR 600.\nConquer in Full Comfort: Customise your comfort and game longer with the fully adjustable stand with height markers."
+        },
+        {
+            "productname":"Monitor LED ViewSonic Gaming XG2705-2K 27 inch 1 ms Black FreeSync 144 Hz",
+            "price":"340.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/5113/2140510/full/gaming-xg2705-2k-27-inch-1-ms-negru-freesync-144-hz-ca6e0190bebc821e173dd72a3cbff5cd.jpg",
+            "imagesContainer": ["https://2.grgs.ro/images/products/1/5113/2140510/full/gaming-xg2705-2k-27-inch-1-ms-negru-freesync-144-hz-ca6e0190bebc821e173dd72a3cbff5cd.jpg","https://5.grgs.ro/images/products/1/5113/2140510/full/gaming-xg2705-2k-27-inch-1-ms-negru-freesync-144-hz-ebdb7fdadfa32cbf55a5a40b760a6b6a.jpg","https://5.grgs.ro/images/products/1/5113/2140510/full/gaming-xg2705-2k-27-inch-1-ms-negru-freesync-144-hz-40a93af51364b57b052b2689fedd25dc.jpg"],
+            "itemURL" : "MONITOR-LED-ViewSonic-Gaming-XG2705",
+            "about" : "IMMERSIVE GAMING: 2K QHD (2560x1440p) resolution, ultra-fast 1ms response time, and amazing 144Hz refresh rate give you the edge in all your gaming quests.\nAMD FREESYNC PREMIUM: Smooth frame rates, effectively eliminating image tearing, stuttering and jerkiness for smooth gameplay.\nADVANCED ERGONOMICS: A fully adjustable ergonomic stand, flicker-free technology and blue light filter delivers the comfort you need for marathon gaming sessions."
+        },
+        {
+            "productname":"Monitor LED Samsung Gaming Odyssey G5A LS27AG500NUXEN 27 inch 1 ms Black HDR",
+            "price":"440.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/2001/2253250/full/gaming-odyssey-g5a-ls27ag500nuxen-27-inch-1-ms-negru-hdr-freesync-premium-g-sync-compatible-165-hz-5625907742602e70e158107765734d78.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/2001/2253250/full/gaming-odyssey-g5a-ls27ag500nuxen-27-inch-1-ms-negru-hdr-freesync-premium-g-sync-compatible-165-hz-5625907742602e70e158107765734d78.jpg","https://5.grgs.ro/images/products/1/2001/2253250/full/gaming-odyssey-g5a-ls27ag500nuxen-27-inch-1-ms-negru-hdr-freesync-premium-g-sync-compatible-165-hz-a7556df6ebbb6db3306bcd1bd2937f9c.jpg","https://5.grgs.ro/images/products/1/2001/2253250/full/gaming-odyssey-g5a-ls27ag500nuxen-27-inch-1-ms-negru-hdr-freesync-premium-g-sync-compatible-165-hz-8a653d2d358a2ad9e36fe146949fe365.jpg"],
+            "itemURL" : "MONITOR-LED-Samsung-Gaming-Odyssey-G5A",
+            "about" : "1000R Curved Gaming monitor – industry-leading screen curvature for immersive, wraparound gaming\nWQHD 2560x1440p resolution & HDR 10 – delivers a crystal-clear picture and shows hidden details\n165hz refresh rate & 1ms response time – for lightning fast transitions with no motion blur"
+        },
+        {
+            "productname":"Monitor LED DELL UltraSharp U2520D 25 inch 8 ms Black 60 Hz",
+            "price":"470.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/2003606/2005018/full/ultrasharp-u2520d-25-inch-8-ms-negru-60-hz-70a43ee1c6aaee02a3285cb42d7e4a41.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/2003606/2005018/full/ultrasharp-u2520d-25-inch-8-ms-negru-60-hz-70a43ee1c6aaee02a3285cb42d7e4a41.jpg","https://5.grgs.ro/images/products/1/2003606/2005018/full/ultrasharp-u2520d-25-inch-8-ms-negru-60-hz-f21c57f1906ce56b6e27bdb44033c49e.jpg","https://4.grgs.ro/images/products/1/2003606/2005018/full/ultrasharp-u2520d-25-inch-8-ms-negru-60-hz-75dffd365c7b508dc9e27708ee0fb913.jpg"],
+            "itemURL" : "MONITOR-LED-DELL-UltraSharp-U250D",
+            "about" : "Exceptional color Get true color reproduction with a wide color coverage including 99% sRGB 99% Rec 709 and 95% DCI-P3 With approximately 25% larger color coverage than sRGB DCI-P3 is becoming a color standard when creating and viewing content\nVirtually borderless Work with an uninterrupted view across multiple monitors with InfinityEdge And with a Dell dual monitor set up you can increase your productivity by up to 21%. Pixel pitch: 0.216 mm\nFlexibility for all-day comfort With the ability to tilt swivel pivot and adjust the height of your monitor to fit your needs you can stay comfortable all day"
+        },
+        {
+            "productname":"Monitor LED Lenovo Gaming Legion Y27GQ-25 27 inch 2K 1ms G-Sync 240Hz",
+            "price":"580.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/6835/2029466/full/gaming-legion-y27gq-20-27-inch-2k-1ms-g-sync-165hz-8379fe369323e2818e5fe2cd414d841a.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/6835/2029466/full/gaming-legion-y27gq-20-27-inch-2k-1ms-g-sync-165hz-8379fe369323e2818e5fe2cd414d841a.jpg","https://3.grgs.ro/images/products/1/6835/2029466/full/gaming-legion-y27gq-20-27-inch-2k-1ms-g-sync-165hz-3264530faec59bc6db2302c81e003833.jpg","https://1.grgs.ro/images/products/1/6835/2029466/full/gaming-legion-y27gq-20-27-inch-2k-1ms-g-sync-165hz-7b374336da0118b1d3ee8dedf0b3a891.jpg"],
+            "itemURL" : "MONITOR-LED-Lenovo-Legion-Y276Q25",
+            "about" : "240Hz refresh rate and 0.5ms response time and the latest NVIDIA G-SYNC technology for ultra-fast and extremely smooth gaming\n40Hz refresh rate and 0.5ms response time and the latest NVIDIA G-SYNC technology for ultra-fast and extremely smooth gaming\nErgonomic lift, tilt, pivot and swivel functionality to easily adjust the monitor to suit your ideal posture"
+        }
+    ],
+    "LAPTOP" : [
+        {
+        "productname":"Ultrabook Lenovo 14'' IdeaPad 3 14ADA05, FHD, Procesor AMD Ryzen™ 5 3500U",
+        "price":"500.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/7620/2254686/normal/14-ideapad-3-14ada05-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-free-dos-platinum-grey-d8552f51b7a5f067a9e745e26510222e.jpg",
+        "imagesContainer":["https://3.grgs.ro/images/products/1/7620/2254686/normal/14-ideapad-3-14ada05-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-free-dos-platinum-grey-d8552f51b7a5f067a9e745e26510222e.jpg","https://4.grgs.ro/images/products/1/7620/2254686/full/14-ideapad-3-14ada05-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-free-dos-platinum-grey-19aaf64fca89e84ebd77329ea90acf54.jpg","https://1.grgs.ro/images/products/1/7620/2254686/full/14-ideapad-3-14ada05-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-free-dos-platinum-grey-4f188617330356e3637d05be09ed1809.jpg"],
+        "itemURL" : "LAPTOP-Lenovo-14-IdeaPad-14ADA05-FHD",
+        "about" : "Powerhouse performance from AMD Ryzen 5 3500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics\nThe IdeaPad 3 14-inch laptop has 4-side narrow bezels that let you see more of the FHD (1920 x 1080) screen for wider viewing angles and less clutter\nQuieter and cooler with intelligent thermals, plus you can calibrate performance with Q-control, with 3 modes to match your performance needs\nWiFi 6 (2x2 802.11 ax) and Bluetooth 5.0 connectivity, plus USB, USB-C, and HDMI ports"
+        },
+
+        {
+         "productname":"Ultrabook ASUS 14'' VivoBook 14 M413IA, FHD, Procesor AMD Ryzen™ 7 4700U",
+          "price":"550.00",
+         "imagesource":"https://1.grgs.ro/images/products/1/926/2283798/normal/14-vivobook-14-m413ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-bespoke-black-d85242a654169fb2e6f08b7401c92db9.jpg",
+         "imagesContainer":["https://1.grgs.ro/images/products/1/926/2283798/normal/14-vivobook-14-m413ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-bespoke-black-d85242a654169fb2e6f08b7401c92db9.jpg","https://4.grgs.ro/images/products/1/926/2283798/full/14-vivobook-14-m413ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-bespoke-black-50e90681734674d6fcf69f65da7de1ec.jpg","https://2.grgs.ro/images/products/1/926/2283798/full/14-vivobook-14-m413ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-bespoke-black-0429b3f8d3ce7da178d9c8ab9dc233e5.jpg"],
+         "itemURL" : "LAPTOP-Asus-14-VivoBook-14-M413IA",
+         "about" : "14 Full HD display, Energy-efficient LED backlight, AMD Radeon RX Vega 8: Integrated graphics chipset with shared video memory provides solid image quality for Internet use, movies, basic photo editing and casual gaming.\nAMD Ryzen 7 4700U Processor, featuring true machine intelligence and a newly designed efficient architecture, the groundbreaking processor learns and adapts to your needs so you can achieve more. Discover true responsiveness with 4 cores and 8 threads for ultimate performance.\n8GB system memory for full-power multitasking Plenty of high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.\n256GB SSD Save files fast and store more data. With massive amounts of storage and advanced communication power, PCI-e SSDs are great for major gaming applications, multiple servers, daily backups, and more.\nWindows 10 operating system. Wireless-AC connectivity. 1 x Type-A USB 3.1 (Gen 1), 1 x Type-C USB 3.0 (USB 3.1 Gen 1), 2 x Type-A USB 2.0, 1 x HDMI, 1 x Headphone/Speaker/Line-Out Jack. Accessories Bundle: ABYS Mouse Pad."
+         },
+
+         {
+          "productname":"Ultrabook ASUS 14'' ZenBook 14 UM425QA, FHD, Procesor AMD Ryzen™ 5 5600H",
+          "price":"730.00",
+          "imagesource":"https://3.grgs.ro/images/products/1/721/2173986/normal/14-zenbook-14-um425qa-fhd-procesor-amd-ryzen-5-5600h-16m-cache-up-to-42-ghz-16gb-ddr4x-512gb-ssd-radeon-win-10-home-pine-grey-98a06f18191bb90371d6b721c7e15f11.jpg",
+          "imagesContainer":["https://3.grgs.ro/images/products/1/721/2173986/normal/14-zenbook-14-um425qa-fhd-procesor-amd-ryzen-5-5600h-16m-cache-up-to-42-ghz-16gb-ddr4x-512gb-ssd-radeon-win-10-home-pine-grey-98a06f18191bb90371d6b721c7e15f11.jpg","https://1.grgs.ro/images/products/1/6412/2262874/full/14-zenbook-14-ux425ea-fhd-procesor-intel-core-i7-1165g7-12m-cache-up-to-470-ghz-with-ipu-16gb-ddr4x-512gb-ssd-intel-iris-xe-no-os-pine-grey-c9de63e9e37d3e9861b14176db59a8f0.jpg","https://2.grgs.ro/images/products/1/6412/2262874/full/14-zenbook-14-ux425ea-fhd-procesor-intel-core-i7-1165g7-12m-cache-up-to-470-ghz-with-ipu-16gb-ddr4x-512gb-ssd-intel-iris-xe-no-os-pine-grey-62926541dc3799afcb6f524c96b8227d.jpg"],
+          "itemURL" : "LAPTOP-Asus-ZenBook-14-UM425QA",
+          "about" : "14 inch wide-view Full HD 4-way NanoEdge bezel display.\nLatest AMD Ryzen 5 5600H Processor with AMD Radeon Vega Graphics\nFast storage and memory featuring 1TB PCIe NVMe SSD with 16GB LPDDR4X RAM.\nErgoLift hinge and backlit keyboard, NumberPad and IR webcam with Windows Hello support\nExtensive connectivity with HDMI, USB Type C, Wi-Fi 5 (802.11ac), Bluetooth 5.0\nUSB 3.2 Type A, USB 3.2 Type C and Micro SD card reader (*USB Transfer speed may vary. Learn more at ASUS website)."
+         },
+         {
+          "productname":"Ultrabook ASUS 15.6'' VivoBook 15 X513EA, FHD, Procesor Intel® Core™ i5-1135G7",
+          "price":"620.00",
+          "imagesource":"https://2.grgs.ro/images/products/1/3354/2270382/normal/156-vivobook-15-x513ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-16gb-ddr4-1tb-ssd-intel-iris-xe-no-os-black-30f77a823c782e08a7dd649ade462a1a.jpg",
+          "imagesContainer":["https://2.grgs.ro/images/products/1/3354/2270382/normal/156-vivobook-15-x513ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-16gb-ddr4-1tb-ssd-intel-iris-xe-no-os-black-30f77a823c782e08a7dd649ade462a1a.jpg","https://5.grgs.ro/images/products/1/3354/2270382/full/156-vivobook-15-x513ea-fhd-procesor-intel-core-i7-1165g7-12m-cache-up-to-470-ghz-with-ipu-16gb-ddr4-1tb-plus-1tb-ssd-intel-iris-xe-no-os-black-67210a590b0eb361a29ee856b67072ab.jpg","https://1.grgs.ro/images/products/1/3354/2270382/full/156-vivobook-15-x513ea-fhd-procesor-intel-core-i7-1165g7-12m-cache-up-to-470-ghz-with-ipu-16gb-ddr4-1tb-plus-1tb-ssd-intel-iris-xe-no-os-black-04bbea22a37e7f4911a550d4aa31f45a.jpg"],
+          "itemURL" : "LAPTOP-Asus-VivoBook-15-X513EA",
+          "about" : "Intel Core i5-1135G7 11th gen, Quad Core Processor\nIntel Integrated UHD Graphics\n8GB DDR4 SODIMM RAM\n512GB M.2 PCIe NVMe SSD\nMicrosoft Windows 10 Home (Pre Loaded)"
+         },
+
+         {
+            "productname":"Ultrabook ASUS 13.3'' ZenBook 13 OLED UX325EA, FHD, Processor Intel® Core™ i5-1135G7",
+            "price":"735.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/1034/2157526/normal/133-zenbook-13-oled-ux325ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-8gb-ddr4x-512gb-ssd-intel-iris-xe-no-os-pine-grey-375201f9b9434e6b277b3b75baf62af9.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/1034/2157526/normal/133-zenbook-13-oled-ux325ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-8gb-ddr4x-512gb-ssd-intel-iris-xe-no-os-pine-grey-375201f9b9434e6b277b3b75baf62af9.jpg","https://4.grgs.ro/images/products/1/1034/2157526/full/133-zenbook-13-ux325ja-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-32gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-grey-d8c40bb0d60fadfeb663558872a70e37.jpg","https://1.grgs.ro/images/products/1/1034/2157526/full/133-zenbook-13-ux325ja-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-32gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-grey-2ae6c52765d2aaf8e7df41293be84a4d.jpg"],
+            "itemURL" : "LAPTOP-Asus-ZenBook-13-UX325EA",
+            "about" : "13.3 inch OLED 400nits Full HD (1920 x 1080) Wide View 4-way NanoEdge bezel display.\nLatest 11th generation Latest 11th generation Intel Core i5-1135G7 Processor (8M Cache, up to 4.2 GHz, 4 cores).\nComes with Windows 10 Home and a FREE upgrade to Windows 11 (when available1).\nFast storage and memory featuring 256GB PCIe NVMe M.2 SSD with 8GB LPDDR4X RAM\nBuilt-in IR camera for facial recognition sign in with Windows Hello."
+         },
+         {
+            "productname":"Laptop ASUS 15.6'' M515DA, FHD, Processor AMD Ryzen™ 3 3250U",
+            "price":"520.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/5217/2299286/normal/156-vivobook-15-m515da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-35-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-transparent-silver-2ff698d2d11f5b288b3ba255c2598c13.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/5217/2299286/normal/156-vivobook-15-m515da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-35-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-transparent-silver-2ff698d2d11f5b288b3ba255c2598c13.jpg","https://4.grgs.ro/images/products/1/5217/2299286/full/156-vivobook-15-m515da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-35-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-transparent-silver-a04aa91a9208e25772a64a5da05cbc57.jpg","https://1.grgs.ro/images/products/1/5217/2299286/full/156-vivobook-15-m515da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-35-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-transparent-silver-aad199081744c6560508ef08889506e0.jpg"],
+            "itemURL" : "LAPTOP-Asus-M515DA-FHD-AMD",
+            "about" : "15.6 inch FHD(1920 x 1080) with four-sided wider NanoEdge bezel display, AMD Radeon Vega 3, AMD Ryzen 3 3250U Processor (2. 6 GHz base frequency up to 3. 5 GHz, 2 Cores, 1MB Cache)\nRAM is upgraded to 8GB DDR4 memory for multitasking Adequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once.\nHard Drive is upgraded to 256GB SSD provides massive storage space for huge files, so that you can store important digital data and work your way through it with ease. It gives you enormous space to save all of your files. Enhance the overall performance of the laptop for business, student, daily usage\n1 x COMBO audio jack, 1 x Type-A USB 3. 0 (USB 3. 1 Gen 1), 1 x Type-C USB 3. 0 (USB 3. 1 Gen 1), 2 x USB 2. 0 port(s), 1 x HDMI.\nWindows 10 Home brings back the Start Menu from Windows 7 and introduces new features, like the Edge Web browser that lets you markup Web pages on your screen. | 1-Year UpgradePro Limited * | View description and section below for more details."
+         },
+         {
+            "productname":"Laptop HP 15.6 250 G8, FHD, Processor Intel® Core™ i3-1005G1",
+            "price":"560.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/3295/2206058/normal/156-quot-250-g8-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-dark-ash-silver-9ed5ec4c5b420bf12c8541abdca5ff49.jpg",
+            "imagesContainer":["https://4.grgs.ro/images/products/1/3295/2206058/normal/156-quot-250-g8-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-dark-ash-silver-9ed5ec4c5b420bf12c8541abdca5ff49.jpg","https://5.grgs.ro/images/products/1/3295/2208610/full/156-quot-250-g8-hd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-pro-dark-ash-silver-fae97ed57b199c850ae4039fa23324fe.jpg","https://4.grgs.ro/images/products/1/3295/2208610/full/156-quot-250-g8-hd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-pro-dark-ash-silver-a2f612fbe433c1d76fefc64622f4e4c7.jpg"],
+            "itemURL" : "LAPTOP-HP-G8-FHD-INTEL",
+            "about" : "【Upgrade to 4GB RAM and 256GB SSD】8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 128GB M.2 Solid State Drive for ample storage space.\nDisplay】15.6-inch diagonal, FHD (1920 x 1080), IPS, micro-edge, anti-glare Non-touch Display, Intel UHD Graphics with Shared Graphics Memory.\n【Connectivity & Ports】Integrated 10/100/1000 GbE LAN, 1 X SuperSpeed USB Type-C 5Gbps signaling rate; 2 X SuperSpeed USB Type-A 5Gbps signaling rate; 1 X HDMI 1.4b; 1 X RJ-45; 1 X AC smart pin; 1 X headphone/microphone combo.\n【Activate 1 Year MS office 365 & Win10 in S mode】(About switch to regular Win10, see the detail in Product description) Activate pre-installed Office: 1.Launch any Office app > 2.Start your activation by signing in with your Microsoft account(Create a account if you don't have one yet) > 3.Click Activate Office > 4.Sign in your account and follow the next prompts. > 5.Complete Step 1,2 and 3 > 6.Click on Refresh once Office is ready > 7.Open a document and accept the license agreement."
+         },
+         {
+            "productname":"Laptop Lenovo Gaming 15.6'' IdeaPad 3 15IHU6, FHD IPS, Processor Intel® Core™ i5-11300H",
+            "price":"560.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/5747/2285358/normal/gaming-156-ideapad-3-15ihu6-fhd-ips-procesor-intel-core-i5-11300h-8m-cache-up-to-440-ghz-with-ipu-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-shadow-e82c96d606eb24f5094aec30c8c4c6a7.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/5747/2285358/normal/gaming-156-ideapad-3-15ihu6-fhd-ips-procesor-intel-core-i5-11300h-8m-cache-up-to-440-ghz-with-ipu-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-shadow-e82c96d606eb24f5094aec30c8c4c6a7.jpg","https://2.grgs.ro/images/products/1/5747/2285358/full/gaming-156-ideapad-3-15ihu6-fhd-ips-procesor-intel-core-i5-11300h-8m-cache-up-to-440-ghz-with-ipu-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-shadow-24d3425c3dda403967176ed386f04945.jpg","https://3.grgs.ro/images/products/1/5747/2285358/full/gaming-156-ideapad-3-15ihu6-fhd-ips-procesor-intel-core-i5-11300h-8m-cache-up-to-440-ghz-with-ipu-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-shadow-f1a6ae84f82810c994cb47a5c728cb71.jpg"],
+            "itemURL" : "LAPTOP-Lenovo-Gaming-IdeaPad-3-15IHU6-FHD",
+            "about" : "11th generation Intel Core i5-11300H processor. Dual-core, four-way intelligent processing performance. Intel Turbo Boost Technology delivers dynamic extra power when you need it, while increasing energy efficiency when you don't.\n256GB Solid State Drive (PCI-e). Save files quickly and store more data. With large amounts of storage and advanced communication power, PCI-e SSDs are ideal for major gaming applications, multiple servers, daily backups, and more.\nWired wireless connectivity (WiFi 5 - 802.11 ac), integrated HD webcam with microphone. Windows 10 Home. Weighs 4.07 lbs. and measures 0.78"
+         }         
+    ],
+    "SPU": [
+        {
+            "productname": "Seasonic Focus GX, 80+ Gold, 650W",
+            "price":"125.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/5758/1943026/normal/focus-gx-80-plus-gold-650w-3ca2ff2f45149ad90c8440ca2b3429fd.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/5758/1943026/normal/focus-gx-80-plus-gold-650w-3ca2ff2f45149ad90c8440ca2b3429fd.jpg","https://1.grgs.ro/images/products/1/5758/1943026/full/focus-gx-80-plus-gold-650w-4ceeec0d227d8b8ee04e02a5c8ca90f3.jpg","https://2.grgs.ro/images/products/1/5758/1943026/full/focus-gx-80-plus-gold-650w-459869c00bc1f4788ffa60877631f340.jpg"],
+            "itemURL" : "SPU-Seasonic-Focus-GX-80-GOLD",
+            "about" : "High Efficiency, 80 PLUS Gold Certified with Fully Modular Cabling Design\nCompact Size (140 mm). Operating Temperature: 0 - 50 °C (derating from 100 % to 80 % from 40 °C to 50 °C)\n120 mm Fluid Dynamic Bearing (FDB) Fan with Seasonic Hybrid Silent Fan Control\nHighly Reliable Japanese 105 °C Aluminum Electrolytic Capacitors\nTight Voltage Regulation (12 V, 5 V and 3.3 V) [± 3%]"
+        },
+        {
+            "productname": "Seasonic S12III-650, 80+ Bronze, 650W",
+            "price":"53.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/6472/1976034/normal/s12iii-650-80-plus-bronze-650w-396aedc87be7de62fbd5ed939ccd3111.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/6472/1976034/normal/s12iii-650-80-plus-bronze-650w-396aedc87be7de62fbd5ed939ccd3111.jpg","https://2.grgs.ro/images/products/1/6472/1976034/full/s12iii-650-80-plus-bronze-650w-03318c60eba535e79caec2ea2c6ab4df.jpg","https://1.grgs.ro/images/products/1/6472/1976034/full/s12iii-650-80-plus-bronze-650w-1eb92792540c3d8c2d498775862a7ca8.jpg"],
+            "itemURL" : "SPU-Seasonic-S12III-650-80-Bronze",
+            "about" : "80 PLUS Bronze Certified High Efficiency with Fixed Cables\nAmple + 12 V Outputs\nActive Power Factor Correction (99 % PF Typical)\nLLC Resonant Converter Design\n120 mm Sleeve Bearing Fan and Smart & Silent Fan Control (S2FC)\nOperating Temperature: 40 °C"
+        },
+        {
+            "productname": "Corsair RM750 2019, 80+ Gold, 750W",
+            "price":"92.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/1868718/1877566/normal/rm750-2019-80-plus-gold-750w-c90ec7c932a9c8c81c3d85ab0bb34ffe.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/1868718/1877566/normal/rm750-2019-80-plus-gold-750w-c90ec7c932a9c8c81c3d85ab0bb34ffe.jpg","https://2.grgs.ro/images/products/1/1868718/1877566/full/rm750-2019-80-plus-gold-750w-9f3169677536a78f85e1bdeb1274d20c.jpg","https://1.grgs.ro/images/products/1/1868718/1877566/full/rm750-2019-80-plus-gold-750w-a97955b4edf9ca3f2f9665e112a38913.jpg"],
+            "itemURL" : "SPU-Corsair-RM750-80-GOLD",
+            "about" : "80 PLUS Gold Certified: High efficiency operation for lower power consumption, less noise and cooler temperatures\nTuned for Low Noise Operation: A 135 mm rifle bearing fan with a specially calculated fan curve ensures that fan noise is kept to a minimum, even at full load\n105 degree Celsius-Rated Capacitors: Industrial-grade capacitors deliver solid electrical performance and reliability\nMicrosoft Modern Standby Compatible: Extremely fast wake-from-sleep times and better low-load efficiency\nZero RPM Fan Mode: At low and medium loads the cooling fan switches off entirely for near-silent operation"
+        },
+        {
+            "productname": "Corsair TX550M, 80+ Gold, 550W",
+            "price":"52.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/367655/1452610/normal/tx550m-80-plus-bronze-550w-2a6a32abbaef7b459db958b0ddfd8fc3.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/367655/1452610/normal/tx550m-80-plus-bronze-550w-2a6a32abbaef7b459db958b0ddfd8fc3.jpg","https://3.grgs.ro/images/products/1/367655/1452610/full/tx550m-80-plus-bronze-550w-4d9ed82df980c3783bec236571316ac4.jpg","https://3.grgs.ro/images/products/1/367655/1452610/full/tx550m-80-plus-bronze-550w-40a9779a0b515539b291b5ae5cf71978.jpg"],
+            "itemURL" : "SPU-Corsair-TX500M-80-GOLD",
+            "about" : "50 Degree C Operating Temperature: Can output full power even at very high ambient temperatures\n80 Plus Gold: Runs cooler and uses less power than less efficient power supplies\nSemi-Modular: Allows user to only use the cables they need for a cleaner looking build with better airflow\nBacked by CORSAIR’s legendary technical support and customer service\nAll Japanese Capacitors: Unparalleled reliability, even at higher operating temperatures"
+        },
+        {
+            "productname": "EVGA SuperNOVA GT, 80+ Gold, 550W",
+            "price":"125.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/8256/2267266/normal/supernova-gt-80-plus-gold-550w-3c208d20b27f22db613cf642a25cbf3e.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/8256/2267266/normal/supernova-gt-80-plus-gold-550w-3c208d20b27f22db613cf642a25cbf3e.jpg","https://4.grgs.ro/images/products/1/8256/2267230/full/supernova-gt-80-plus-gold-750w-f51f1ae45ab218430df337690fc66992.jpg","https://4.grgs.ro/images/products/1/8256/2267230/full/supernova-gt-80-plus-gold-750w-d9a90478ccc6a441eb084c173fd909b6.jpg"],
+            "itemURL" : "SPU-EVGA-SuperNOVA-GT-80-GOLD",
+            "about" : "80 PLUS Gold certified, with 90% (115VAC) / 92% (220VAC~240VAC) efficiency or higher under typical loads\n100% Japanese Capacitors ensure long-term reliability\nFully Modular to reduce clutter and improve airflow\nAuto ECO Mode to ensure silent operation under low to medium loads with no configuration necessary\nHeavy-duty protections, including OVP (Over Voltage Protection), UVP (Under Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and Dual OTP (Over Temperature Protection)"
+        }
+    ],
+    "NETWORK" : [
+        {
+            "productname":"Network Attached Storage Synology DS1621",
+            "price":"1200.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/6412/2104350/normal/ds1621-plus-4gb-daa9ff8e19ce4676a035027970232bd6.jpg",
+            "imagesContainer": ["https://2.grgs.ro/images/products/1/6412/2104350/full/ds1621-plus-4gb-daa9ff8e19ce4676a035027970232bd6.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Synology-ds1621",
+            "about" : "Scalable NAS with SSD cache acceleration capability\nDS920+ provides two built-in M.2 SSD slots so that you can take full advantage of Synology SSD Cache functionality\nA more powerful CPU speeds up computing-intensive applications ( Intel Celeron J4125). System Memory: 4 GB DDR4 non-ECC. Total Memory Slots: 1, Maximum Memory Capacity: 8 GB (4 GB + 4 GB)"
+        },
+        {
+            "productname":"Network Attached Storage Synology DS220",
+            "price":"680.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/7960/2051062/normal/ds220-plus-c648107cbb16cb29d8b796d85e9f29db.jpg",
+            "imagesContainer": ["https://4.grgs.ro/images/products/1/7960/2051062/normal/ds220-plus-c648107cbb16cb29d8b796d85e9f29db.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Synology-ds220",
+            "about" : "2-core 2.0 GHz Processor, burst up to 2.9 GHz and boosts photo indexing, database response times, and web PHP response efficiency - average 15% boost to computing-intensive applications\nAccess multimedia content anytime, anywhere through an intuitive web-based interface\nSeamless integration with your mobile devices - access your data quickly and securely wherever you are\nBtrfs file system for cutting-edge storage technologies and optimised snapshots to prevent data corruption and reduce maintenance overhead"
+        },
+        {
+            "productname":"Network Attached Storage Synology DiskStation DS720",
+            "price":"580.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/2045418/2048742/full/diskstation-ds720-plus-2gb-027291b5978b71b3880c26946ecaf6a7.jpg",
+             "imagesContainer":["https://4.grgs.ro/images/products/1/2045418/2048742/full/diskstation-ds720-plus-2gb-027291b5978b71b3880c26946ecaf6a7.jpg","https://2.grgs.ro/images/products/1/2045418/2048742/full/diskstation-ds720-plus-2gb-7a0a164bfb9c639907840b41e997eb84.jpg","https://2.grgs.ro/images/products/1/2045418/2048742/full/diskstation-ds720-plus-2gb-4d2f29b9ec0816b1539c7e91f099ab01.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Synology-DS720",
+            "about" : "2x M.2 SSD slots for SSD\n2 x 3.5 or 2.5 SATA HDD/SSD\nIntel Celeron J4125 2-core 2.0 GHz (up to 2.7GHz Boost)"
+        },
+        {
+            "productname":"Network Attached Storage Qnap TS-231K 1GB",
+            "price":"320.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/7193/2056354/full/ts-231k-1gb-ed1d90232199cc4c115db3379b308f1a.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/7193/2056354/full/ts-231k-1gb-ed1d90232199cc4c115db3379b308f1a.jpg","https://4.grgs.ro/images/products/1/7193/2056354/full/ts-231k-1gb-a8d63397059c3153e127bc9cbd3786fb.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Qnap-TS231K",
+            "about" : "High-performance quad-core NAS for reliable home and personal cloud storage\nFile Station enables centralized file management on the NAS, connected devices, and connected clouds\nSnapshots fully record system status and data, allowing you to protect files and data\nHBS (Hybrid Backup Sync) can backup and sync your data to other NAS, servers and cloud storag"
+        },
+        {
+            "productname":"Network Attached Storage Qnap TS-230 2GB",
+            "price":"220.00",
+            "imagesource":"https://5.grgs.ro/images/products/1/1034/2042050/full/ts-230-2gb-4e77d2bba6c0b9f81ef00b558fa42c0e.jpg",
+            "imagesContainer":["https://5.grgs.ro/images/products/1/1034/2042050/full/ts-230-2gb-4e77d2bba6c0b9f81ef00b558fa42c0e.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Qnap-TS230",
+            "about" : "An entry-level Home NAS with snapshot protection, allowing you to protect files and data from accidental deletion and malware attacks\nCentrally store photos, music, and videos; easily browse, organise, and share multimedia files, and enjoy video streaming for greater entertainment\nUse HBS to back up or sync NAS files to remote or cloud storage space for reliable data backup and restoration"
+        },
+        {
+            "productname":"Network Attached Storage Qnap TS-251D 2GB",
+            "price":"350.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/1034/2044254/full/ts-251d-2gb-7c8f8d7d4755ba126f1c9ba42b299bd6.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/1034/2044254/full/ts-251d-2gb-7c8f8d7d4755ba126f1c9ba42b299bd6.jpg","https://4.grgs.ro/images/products/1/1034/2044254/full/ts-251d-2gb-3b37f26c7ec73dbd446cb9559b5be789.jpg","https://3.grgs.ro/images/products/1/1034/2044254/full/ts-251d-2gb-b1da7bdebac67a057a9f385ee8d6331c.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Qnap-TS251D",
+            "about" : "The TS-251D integrates secure data storage and multimedia entertainment into one device\nPCIe port for further expansion\n4K media playback\nSnapshots protect you from accidently deleted files\n2 year manufacturer warranty"
+        },
+        {
+            "productname":"Network Attached Storage Synology DiskStation DS218play 1 GB",
+            "price":"230.00",
+           "imagesource":"https://2.grgs.ro/images/products/1/1505170/1597894/full/diskstation-ds218play-1-gb-c91f07c512c8b0f1bbe6ad38a00ac927.jpg",
+            "imagesContainer":["https://2.grgs.ro/images/products/1/1505170/1597894/full/diskstation-ds218play-1-gb-c91f07c512c8b0f1bbe6ad38a00ac927.jpg","https://5.grgs.ro/images/products/1/1691840/1703560/full/ds218-2gb-044f61ba8b549231648cee5102507f35.jpg","https://3.grgs.ro/images/products/1/1691840/1703560/full/ds218-2gb-87368cd4fee72e7caa959fe488de37b4.jpg"], 
+            "itemURL" : "NETWORK-Attached-Storage-Qnap-DS218play",
+            "about" : "2-bay NAS with optimal multimedia solution for home users\n4K video transcoding on the fly with 10 bit H.265 codec support\nUp to 112 MB/s and 112 MB/s sequential reading and writing\nPowered by a 64-bit 1.4 GHz quad-core processor with 1 GB DDR4 RAM\nSupports up to 15 IP cameras"
+        },
+        {
+            "productname":"Network Attached Storage Synology RS1221 4GB",
+            "price":"1350.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/3393/2274602/full/rs1221-plus-277fd5466e32a912dd005fe3233195a3.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/3393/2274602/full/rs1221-plus-277fd5466e32a912dd005fe3233195a3.jpg","https://3.grgs.ro/images/products/1/3393/2274602/full/rs1221-plus-e2ae0fa72e64684eb8cf298f0016b528.jpg","https://2.grgs.ro/images/products/1/3393/2274602/full/rs1221-plus-76c5fc4e110586fced5783d9bcb43462.jpg"],
+            "itemURL" : "NETWORK-Attached-Storage-Synology-RS1221",
+            "about" : "Plug-n-use design for seamless storage space upgrade\nOnline volume expansion on the fly\nManaged from Synology DiskStation Manager (DSM)\nGreen and easy to manage"
+        }
+    ],
+    "TABLET" : [
+        {
+            "productname":"Apple iPad (9th Generation 2021) 10.2 inch 64GB",
+            "price":"490.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/3393/2272518/full/ipad-9th-generation-2021-102-inch-256gb-wi-fi-plus-cellular-space-grey-d9995f71e1ed3648b43dbcce539a5498.jpg",
+            "imagesContainer": ["https://2.grgs.ro/images/products/1/3393/2272518/full/ipad-9th-generation-2021-102-inch-256gb-wi-fi-plus-cellular-space-grey-d9995f71e1ed3648b43dbcce539a5498.jpg","https://1.grgs.ro/images/products/1/3393/2272518/full/ipad-9th-generation-2021-102-inch-256gb-wi-fi-plus-cellular-space-grey-8a45cb78b7d8a1c1a99a716cee85928f.jpg","https://5.grgs.ro/images/products/1/3393/2272518/full/ipad-9th-generation-2021-102-inch-256gb-wi-fi-plus-cellular-space-grey-d841696a99df6845b33b8fb6e456c27a.jpg"],
+            "itemURL" : "TABLET-Apple-iPad-9THgen-2021",
+            "about" : "Gorgeous 10.2-inch Retina display with True Tone\nA13 Bionic chip with Neural Engine\n8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage\nUp to 64GB storage\nStereo speakers\nTouch ID for secure authentication and Apple Pay 802.11ac Wi-Fi\nUp to 10 hours of battery life\nLightning connector for charging and accessories\nWorks with Apple Pencil (1st generation) and Smart Keyboard"
+        },
+        {
+            "productname":"Xiaomi Pad 5, 11 inch Multi-Touch, Snapdragon 860 Octa Core 2.9GHz",
+            "price":"430.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/9033/2277162/full/pad-5-11-inch-multi-touch-snapdragon-860-octa-core-29ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-android-11-cosmic-gray-c417a4085b51c2e0d5f4b228b958ef11.jpg",
+            "imagesContainer": ["https://3.grgs.ro/images/products/1/9033/2277162/full/pad-5-11-inch-multi-touch-snapdragon-860-octa-core-29ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-android-11-cosmic-gray-c417a4085b51c2e0d5f4b228b958ef11.jpg", "https://5.grgs.ro/images/products/1/9033/2277162/full/pad-5-11-inch-multi-touch-snapdragon-860-octa-core-29ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-android-11-cosmic-gray-cbf076ae1488118e483f925a064f9e8f.jpg","https://4.grgs.ro/images/products/1/9033/2277162/full/pad-5-11-inch-multi-touch-snapdragon-860-octa-core-29ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-android-11-cosmic-gray-90245b95bff2b5058b86daaebb62ac97.jpg"],
+            "itemURL" : "TABLET-Xiaomi-Pad-5-Snapdragon-860",
+            "about" : "11 high-resolution display\nWQHD+ 120Hz display\nQualcomm® Snapdragon™ 860\n8720 mAh(typ) long-lasting battery\nMIUI for Xiaomi Pad\n120Hz screen"
+        },
+        {
+            "productname":"Samsung Galaxy Tab A8, 10.5 inch Multi-touch, Cortex A75-A55",
+            "price":"250.00",
+            "imagesource":"https://1.grgs.ro/images/products/1/4960/2313042/full/galaxy-tab-a8-105-inch-multi-touch-cortex-a75-a55-octa-core-2ghz-3gb-ram-32gb-flash-wi-fi-bluetooth-gps-android-11-gray-bf529981266d9be0f1233b2060871257.jpg",
+            "imagesContainer":["https://1.grgs.ro/images/products/1/4960/2313042/full/galaxy-tab-a8-105-inch-multi-touch-cortex-a75-a55-octa-core-2ghz-3gb-ram-32gb-flash-wi-fi-bluetooth-gps-android-11-gray-bf529981266d9be0f1233b2060871257.jpg","https://3.grgs.ro/images/products/1/4960/2313042/full/galaxy-tab-a8-105-inch-multi-touch-cortex-a75-a55-octa-core-2ghz-3gb-ram-32gb-flash-wi-fi-bluetooth-gps-android-11-gray-4ebc10760648cd4b2923c2734648b60c.jpg","https://5.grgs.ro/images/products/1/4960/2313042/full/galaxy-tab-a8-105-inch-multi-touch-cortex-a75-a55-octa-core-2ghz-3gb-ram-32gb-flash-wi-fi-bluetooth-gps-android-11-gray-a510b38cff5d68a04905d80341fff6ac.jpg"],
+            "itemURL" : "TABLET-Samsung-Galaxy-Tab-A8-Corex-A75-A55",
+            "about" : "From epic films to how-to contents for a hobby you love, Galaxy Tab A8 invites you to a broader world through a bigger, better view\nJoyfully aesthetic with a touch of cool, Galaxy Tab A8 is vibrant in its aura and youthful in its appearance.\nMade to deliver immersion on the go, Galaxy Tab A8 opens up an enveloping universe of content, games & activities that young ones love.\nSporting the Octa-core processor paired with up to 4GB RAM and 32GB internal storage, Galaxy Tab A8 comes ever ready to take up a challenge without draining the speed or the battery.With Samsung TV Plus, Galaxy Tab A8 delivers instant, free TV anytime, anywhere, right on your android tablet. Enjoy thousands of hours of news, sports, movies, a variety of kids content, and more."
+        },
+        {
+            "productname":"Apple iPad Pro 12.9 (2021) 128GB Wi-Fi Space Grey",
+            "price":"980.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/6331/2222118/full/ipad-pro-129-2021-128gb-wi-fi-plus-cellular-space-grey-9cb5961cd70ebe21f0536510633f4956.jpg",
+            "imagesContainer": ["https://3.grgs.ro/images/products/1/6331/2222118/full/ipad-pro-129-2021-128gb-wi-fi-plus-cellular-space-grey-9cb5961cd70ebe21f0536510633f4956.jpg","https://1.grgs.ro/images/products/1/6331/2222118/full/ipad-pro-129-2021-128gb-wi-fi-plus-cellular-space-grey-4fad18a42582d2c2c2c5be7dbe0355b8.jpg"],
+            "itemURL" : "TABLET-Apple-iPad-Pro-2021-128GB",
+            "about": "Apple M1 chip for next-level performance\nBrilliant 12.9-inch Liquid Retina XDR display with ProMotion, True Tone, and P3 wide color\nTrueDepth camera system featuring Ultra Wide camera with Center Stage\n12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR\nStay connected with ultrafast Wi-Fi\nGo further with all-day battery life\nThunderbolt port for connecting to fast external storage, displays, and docks\nFace ID for secure authentication and Apple Pay\nFour speaker audio and five studio-quality microphones\nSupport for Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Folio"
+        },
+        {
+            "productname":"Apple iPad Mini 6 (2021) 8.3 inch 64GB Wi-Fi Purple",
+            "price":"469.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/3393/2278898/full/apple-ipad-mini-6-2021-256gb-cellular-purple-e49d8c895e61e408b722abb452c675ec.jpg",
+            "imagesContainer": ["https://2.grgs.ro/images/products/1/3393/2278898/full/apple-ipad-mini-6-2021-256gb-cellular-purple-e49d8c895e61e408b722abb452c675ec.jpg","https://2.grgs.ro/images/products/1/3393/2278898/full/apple-ipad-mini-6-2021-256gb-cellular-purple-e4a100671bd217421712263f22423b16.jpg","https://2.grgs.ro/images/products/1/3393/2278898/full/apple-ipad-mini-6-2021-256gb-cellular-purple-eb8c4b899c1fe608bf133faf4fd1dd39.jpg"],
+            "itemURL" : "TABLET-Apple-iPad-Mini-6-64GB",
+            "about" : "8.3-inch Liquid Retina display with True Tone and wide color\nA15 Bionic chip with Neural Engine\nTouch ID for secure authentication and Apple Pay\n12MP Wide back camera, 12MP Ultra Wide front camera with Center Stage\nLandscape stereo speakers\nStay connected with ultrafast Wi-Fi 6\nUp to 10 hours of battery life\nUSB-C connector for charging and accessories\nWorks with Apple Pencil (2nd generation)"
+        },
+        {
+            "productname":"Lenovo Tab P11 Pro J706F, 11.5 inch Multi-Touch, Snapdragon 730G",
+            "price":"450.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/9551/2280858/full/tab-p11-pro-j706f-115-inch-multi-touch-snapdragon-730g-22ghz-octa-core-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-slate-grey-5e3d4b2657e720626a320318f4c9f324.jpg",
+            "imagesContainer": ["https://3.grgs.ro/images/products/1/9551/2280858/full/tab-p11-pro-j706f-115-inch-multi-touch-snapdragon-730g-22ghz-octa-core-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-slate-grey-5e3d4b2657e720626a320318f4c9f324.jpg","https://5.grgs.ro/images/products/1/9551/2280858/full/tab-p11-pro-j706f-115-inch-multi-touch-snapdragon-730g-22ghz-octa-core-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-slate-grey-84a1e7c9e95c25d90448fbb6ed22bbcb.jpg","https://4.grgs.ro/images/products/1/9551/2280858/full/tab-p11-pro-j706f-115-inch-multi-touch-snapdragon-730g-22ghz-octa-core-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-slate-grey-f7025d6050cdeaf07b863f1dd910bee5.jpg"],
+            "itemURL" : "TABLET-Lenovo-Tab-P11-PRO-J706F",
+            "about" : "Crystal clear audio and vision: 11.5 (2560 x 1600) OLED screen enhanced by Dolby Vision's sharper contrasts, dazzling brightness, remarkable color palette and quad JBL speakers tuned by Dolby Atmos giving you immersive entertainment with surround sound\nState-of-the-art display for cinematic magic: Dive deep into your favorite streaming shows with captivating Netflix HD-certified visuals\nPro performance: Powered to handle the most sophisticated in-device interactions in gaming, streaming or multitasking thanks to the Qualcomm Snapdragon 730G mobile platform\nOn-the-go-fun: Up to 15 hours on a full charge. Fueled by an 8nm process for extreme power efficiency in a compact size\nPremium look and feel: Ultra-slim 5.8mm thin aluminum-alloy unibody, crafted for peerless versatility and mobility"
+        },
+        {
+            "productname":"Samsung Galaxy Tab S8, 11 inch Multi-Touch, Snapdragon 8",
+            "price":"659.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/9805/2334288/full/galaxy-tab-s8-11-inch-multi-touch-snapdragon-8-gen-1-octa-core-299ghz-8gb-ram-128gb-flash-wi-fi-bluetooth-android-12-pink-gold-47cddf3e89481d31d2cf5751555e338b.jpg",
+            "imagesContainer":["https://3.grgs.ro/images/products/1/9805/2334288/full/galaxy-tab-s8-11-inch-multi-touch-snapdragon-8-gen-1-octa-core-299ghz-8gb-ram-128gb-flash-wi-fi-bluetooth-android-12-pink-gold-47cddf3e89481d31d2cf5751555e338b.jpg","https://1.grgs.ro/images/products/1/9805/2334288/full/galaxy-tab-s8-11-inch-multi-touch-snapdragon-8-gen-1-octa-core-299ghz-8gb-ram-128gb-flash-wi-fi-bluetooth-android-12-pink-gold-49184b27f5c189434296186b48b33eb5.jpg","https://4.grgs.ro/images/products/1/9805/2334288/full/galaxy-tab-s8-11-inch-multi-touch-snapdragon-8-gen-1-octa-core-299ghz-8gb-ram-128gb-flash-wi-fi-bluetooth-android-12-pink-gold-1e3150c901b7bdd421c9fe8d0517e35b.jpg"],
+            "itemURL" : "TABLET-Samsung-Galaxy-Tab-S8",
+            "about" : "Built to take fun on the go. This 11” LCD screen has a ton to offer. From 5G to a huge battery, and a 12MP Ultra-Wide Front Camera. And of course, the S Pen is included\nWrite, sketch, doodle or draw all your wildest ideas into reality with S Pen with ultra-low latency. A thousand tools in one, the new S Pen gives you impressive levels of control.\nLove to draw or paint? Clip Studio Paint5 was created just for creative people like you. With a natural brush feel you can bring life to your most imaginative creations.\nRing up your bestie or up to 31 of your closest friends with the high-quality video calling app available. The three Mic noise reduction technology makes sure you focus just on the call."
+        },
+        {
+            "productname":"Samsung Galaxy Tab S7 Plus, 12.4 inch Multi-touch, Snapdragon 865+",
+            "price":"679.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/6954/2063038/full/galaxy-tab-s7-plus-124-inch-multi-touch-snapdragon-865-plus-octa-core-309ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-gps-5g-android-10-mystic-black-f36b5410ede74063a718372a47f96d04.jpg",
+             "imagesContainer":["https://4.grgs.ro/images/products/1/6954/2063038/full/galaxy-tab-s7-plus-124-inch-multi-touch-snapdragon-865-plus-octa-core-309ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-gps-5g-android-10-mystic-black-f36b5410ede74063a718372a47f96d04.jpg","https://3.grgs.ro/images/products/1/6954/2063038/full/galaxy-tab-s7-plus-124-inch-multi-touch-snapdragon-865-plus-octa-core-309ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-gps-5g-android-10-mystic-black-0a1fcec9f42663c3b16191b29aa25038.jpg","https://5.grgs.ro/images/products/1/6954/2063038/full/galaxy-tab-s7-plus-124-inch-multi-touch-snapdragon-865-plus-octa-core-309ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-gps-5g-android-10-mystic-black-32e187972376ce78485e9ff26eab72bf.jpg"],
+            "itemURL" : "TABLET-Samsung-Galaxy-Tab-S7-Plus",
+            "about" : "Stunning display immerse yourself in work and play with the 12.4” Galaxy Tab S7+ thanks to the superfast refresh rate which creates an ultra-smooth viewing experience\nProductivity from creating amazing works of art, to annotating the latest project proposal for work, Galaxy Tab S7+, equipped with the redesigned S Pen, help you do it all\nPC-like experience Galaxy Tab S7+ Tablet is your powerful new go-to, whether you’re working from home or on the go Pair the Samsung DeX mode with the Book Cover Keyboard*, and you’re ready to power through your work *Book Cover Keyboard sold separately\nNext-level sound Dolby Atmos sound and quad speakers tuned by AKG take the Galaxy Tab S7+ audio experience to the next level\nWhat's in the box Samsung Galaxy Tab S7+, S Pen, USB Type C cable and plug, product information leaflets"
+        }
+    ]
+}

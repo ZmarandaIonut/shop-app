@@ -1,0 +1,55 @@
+[
+        {
+        "productname":"Ultrabook Lenovo 14'' IdeaPad 3 14ADA05, FHD, Procesor AMD Ryzen™ 5 3500U",
+        "price":"500.00",
+        "imagesource":"https://3.grgs.ro/images/products/1/7620/2254686/normal/14-ideapad-3-14ada05-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-free-dos-platinum-grey-d8552f51b7a5f067a9e745e26510222e.jpg",
+        "itemURL" : "LAPTOP-Lenovo-14-IdeaPad-14ADA05-FHD"
+        },
+
+        {
+         "productname":"Ultrabook ASUS 14'' VivoBook 14 M413IA, FHD, Procesor AMD Ryzen™ 7 4700U",
+          "price":"550.00",
+         "imagesource":"https://1.grgs.ro/images/products/1/926/2283798/normal/14-vivobook-14-m413ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-bespoke-black-d85242a654169fb2e6f08b7401c92db9.jpg",
+         "itemURL" : "LAPTOP-Asus-14-VivoBook-14-M413IA"
+         },
+
+         {
+          "productname":"Ultrabook ASUS 14'' ZenBook 14 UM425QA, FHD, Procesor AMD Ryzen™ 5 5600H",
+          "price":"730.00",
+          "imagesource":"https://3.grgs.ro/images/products/1/721/2173986/normal/14-zenbook-14-um425qa-fhd-procesor-amd-ryzen-5-5600h-16m-cache-up-to-42-ghz-16gb-ddr4x-512gb-ssd-radeon-win-10-home-pine-grey-98a06f18191bb90371d6b721c7e15f11.jpg",
+          "itemURL" : "LAPTOP-Asus-ZenBook-14-UM425QA"
+         },
+         {
+          "productname":"Ultrabook ASUS 15.6'' VivoBook 15 X513EA, FHD, Procesor Intel® Core™ i5-1135G7",
+          "price":"620.00",
+          "imagesource":"https://2.grgs.ro/images/products/1/3354/2270382/normal/156-vivobook-15-x513ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-16gb-ddr4-1tb-ssd-intel-iris-xe-no-os-black-30f77a823c782e08a7dd649ade462a1a.jpg",
+          "itemURL" : "LAPTOP-Asus-VivoBook-15-X513EA"
+         },
+
+         {
+            "productname":"Ultrabook ASUS 13.3'' ZenBook 13 OLED UX325EA, FHD, Processor Intel® Core™ i5-1135G7",
+            "price":"735.00",
+            "imagesource":"https://3.grgs.ro/images/products/1/1034/2157526/normal/133-zenbook-13-oled-ux325ea-fhd-procesor-intel-core-i5-1135g7-8m-cache-up-to-420-ghz-8gb-ddr4x-512gb-ssd-intel-iris-xe-no-os-pine-grey-375201f9b9434e6b277b3b75baf62af9.jpg",
+            "itemURL" : "LAPTOP-Asus-ZenBook-13-UX325EA"
+         },
+         {
+            "productname":"Laptop ASUS 15.6'' M515DA, FHD, Processor AMD Ryzen™ 3 3250U",
+            "price":"520.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/5217/2299286/normal/156-vivobook-15-m515da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-35-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-transparent-silver-2ff698d2d11f5b288b3ba255c2598c13.jpg",
+            "itemURL" : "LAPTOP-Asus-M515DA-FHD-AMD"
+         },
+         {
+            "productname":"Laptop HP 15.6 250 G8, FHD, Processor Intel® Core™ i3-1005G1",
+            "price":"560.00",
+            "imagesource":"https://4.grgs.ro/images/products/1/3295/2206058/normal/156-quot-250-g8-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-dark-ash-silver-9ed5ec4c5b420bf12c8541abdca5ff49.jpg",
+            "itemURL" : "LAPTOP-HP-G8-FHD-INTEL"
+         },
+         {
+            "productname":"Laptop Lenovo Gaming 15.6'' IdeaPad 3 15IHU6, FHD IPS, Processor Intel® Core™ i5-11300H",
+            "price":"560.00",
+            "imagesource":"https://2.grgs.ro/images/products/1/5747/2285358/normal/gaming-156-ideapad-3-15ihu6-fhd-ips-procesor-intel-core-i5-11300h-8m-cache-up-to-440-ghz-with-ipu-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-shadow-e82c96d606eb24f5094aec30c8c4c6a7.jpg",
+            "itemURL" : "LAPTOP-Lenovo-Gaming-IdeaPad-3-15IHU6-FHD"
+         }
+
+         
+]
